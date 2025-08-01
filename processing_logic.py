@@ -231,9 +231,7 @@ CONFIGS = {
     "MEXC": mexc_config,
     "KuCoin": kucoin_config,
     "Koinly": koinly_config,
-    "Awaken Tax": awaken_tax_config,
     "Stake Tax": stake_tax_config,
-    "Polygon ZKevm": polygon_zkevm_config,
     "Nexo": nexo_config
     # Add other mappings here
 }
