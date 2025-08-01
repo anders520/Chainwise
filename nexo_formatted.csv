@@ -1,0 +1,1623 @@
+Type,Buy,Cur.,Sell,Cur..1,Fee,Cur..2,Exchange,Group,Comment,Date
+Deposit,0.042896,BTC,0.0,,0.0,-,Nexo,,approved / 9e88c39117842167ff446b47df9cb3443b20a601e797870ec9678aeb8896a1b1,25-05-2021 00:27:16
+Deposit,0.82544,ETH,0.0,,0.0,-,Nexo,,approved / 0x5088ec815d5d97cc0f6f5bcf6103bb38aacc974b61f3dcac344a86e9ac52dea6,25-05-2021 00:33:22
+Trade,-1000.0,USD,1000.0,USD,0.0,-,Nexo,,approved / Lori West,25-05-2021 12:08:08
+Withdrawal,0.0,,0.17029086,ETH,0.0,-,Nexo,,approved / Transfer from Savings Wallet to Credit Line Wallet,25-05-2021 12:08:08
+Withdrawal,0.0,,0.042896,BTC,0.0,-,Nexo,,approved / Transfer from Savings Wallet to Credit Line Wallet,25-05-2021 12:08:08
+Interest Income,7.04e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,26-05-2021 23:00:03
+Interest Income,7.04e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,27-05-2021 23:00:03
+Interest Income,7.041e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,28-05-2021 23:00:03
+Interest Income,7.042e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,29-05-2021 23:00:02
+Interest Income,7.043e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,30-05-2021 23:00:03
+Interest Income,7.044e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,31-05-2021 23:00:03
+Interest Income,7.044e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,01-06-2021 23:00:03
+Interest Income,7.045e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,02-06-2021 23:00:03
+Interest Income,7.046e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,03-06-2021 23:00:03
+Interest Income,7.047e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,04-06-2021 23:00:02
+Interest Income,7.047e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,05-06-2021 23:00:03
+Interest Income,7.048e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,06-06-2021 23:00:03
+Interest Income,7.049e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,07-06-2021 23:00:02
+Interest Income,7.05e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,08-06-2021 23:00:02
+Interest Income,7.05e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,09-06-2021 23:00:02
+Deposit,0.02290546,BTC,0.0,,0.0,-,Nexo,,approved / 21154098f461c1bf160cc037ca1dfe525164f655471ea9698fa5f0880ef98676,10-06-2021 15:22:16
+Withdrawal,0.0,,0.14339508,ETH,0.0,-,Nexo,,approved / Transfer from Savings Wallet to Credit Line Wallet,10-06-2021 16:23:13
+Trade,-600.0666,USD,600.0,USDC,0.0,-,Nexo,,approved / Lori West,10-06-2021 16:23:13
+Withdrawal,0.0,,0.02290546,BTC,0.0,-,Nexo,,approved / Transfer from Savings Wallet to Credit Line Wallet,10-06-2021 16:23:13
+Deposit,600.0,USDC,0.0,,0.0,-,Nexo,,approved,10-06-2021 16:23:37
+Withdrawal,0.0,,600.0,USDC,0.0,-,Nexo,,approved / USDC withdrawal,10-06-2021 16:26:44
+Interest Income,5.51e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,10-06-2021 23:00:02
+Interest Income,5.511e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,11-06-2021 23:00:02
+Interest Income,5.511e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,12-06-2021 23:00:03
+Interest Income,5.512e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,13-06-2021 23:00:03
+Interest Income,5.513e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,14-06-2021 23:00:02
+Interest Income,5.513e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,15-06-2021 23:00:03
+Interest Income,5.514e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,16-06-2021 23:00:02
+Interest Income,5.514e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,17-06-2021 23:00:03
+Interest Income,5.515e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,18-06-2021 23:00:02
+Interest Income,5.515e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,19-06-2021 23:00:03
+Interest Income,5.516e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,20-06-2021 23:00:02
+Interest Income,5.517e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,21-06-2021 23:00:02
+Interest Income,5.517e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,22-06-2021 23:00:03
+Interest Income,5.518e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,23-06-2021 23:00:03
+Interest Income,5.518e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,24-06-2021 23:00:03
+Interest Income,5.519e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,25-06-2021 23:00:03
+Interest Income,5.52e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,26-06-2021 23:00:03
+Interest Income,5.52e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,27-06-2021 23:00:03
+Interest Income,5.521e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,28-06-2021 23:00:03
+Interest Income,5.521e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,29-06-2021 23:00:03
+Interest Income,5.522e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,30-06-2021 23:00:03
+Interest Income,5.523e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,01-07-2021 23:00:04
+Interest Income,5.523e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,02-07-2021 23:00:03
+Interest Income,5.524e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,03-07-2021 23:00:03
+Interest Income,5.524e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,04-07-2021 23:00:04
+Interest Income,5.525e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,05-07-2021 23:00:03
+Interest Income,5.526e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,06-07-2021 23:00:03
+Interest Income,5.526e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,07-07-2021 23:00:03
+Interest Income,5.527e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,08-07-2021 23:00:03
+Interest Income,5.527e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,09-07-2021 23:00:03
+Interest Income,5.528e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,10-07-2021 23:00:03
+Interest Income,5.529e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,11-07-2021 23:00:03
+Interest Income,5.529e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,12-07-2021 23:00:03
+Interest Income,5.53e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,13-07-2021 23:00:03
+Interest Income,5.53e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,14-07-2021 23:00:03
+Interest Income,5.531e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,15-07-2021 23:00:04
+Interest Income,5.532e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,16-07-2021 23:00:04
+Interest Income,5.532e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,17-07-2021 23:00:03
+Interest Income,5.533e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,18-07-2021 23:00:03
+Interest Income,5.533e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,19-07-2021 23:00:03
+Interest Income,5.534e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,20-07-2021 23:00:03
+Interest Income,5.534e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,21-07-2021 23:00:03
+Interest Income,5.535e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,22-07-2021 23:00:04
+Interest Income,5.536e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,23-07-2021 23:00:03
+Interest Income,5.536e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,24-07-2021 23:00:03
+Interest Income,5.537e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,25-07-2021 23:00:03
+Interest Income,5.537e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,26-07-2021 23:00:03
+Interest Income,5.538e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,27-07-2021 23:00:03
+Interest Income,5.539e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,28-07-2021 23:00:04
+Interest Income,5.539e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,29-07-2021 23:00:03
+Interest Income,5.54e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,30-07-2021 23:00:03
+Interest Income,5.54e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,31-07-2021 23:00:04
+Interest Income,5.541e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,01-08-2021 23:00:03
+Interest Income,5.542e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,02-08-2021 23:00:03
+Interest Income,5.542e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,03-08-2021 23:00:04
+Interest Income,5.543e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,04-08-2021 23:00:03
+Interest Income,5.543e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,05-08-2021 23:00:03
+Interest Income,5.544e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,06-08-2021 23:00:03
+Interest Income,5.545e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,07-08-2021 23:00:03
+Interest Income,5.545e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,08-08-2021 23:00:03
+Interest Income,5.546e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,09-08-2021 23:00:03
+Interest Income,5.546e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,10-08-2021 23:00:03
+Interest Income,5.547e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,11-08-2021 23:00:03
+Interest Income,5.548e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,12-08-2021 23:00:03
+Interest Income,5.548e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,13-08-2021 23:00:03
+Interest Income,5.549e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,14-08-2021 23:00:03
+Interest Income,5.549e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,15-08-2021 23:00:04
+Interest Income,5.55e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,16-08-2021 23:00:03
+Interest Income,5.551e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,17-08-2021 23:00:03
+Interest Income,5.551e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,18-08-2021 23:00:03
+Interest Income,5.552e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,19-08-2021 23:00:03
+Interest Income,5.552e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,20-08-2021 23:00:03
+Interest Income,5.553e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,21-08-2021 23:00:03
+Interest Income,5.554e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,22-08-2021 23:00:03
+Interest Income,5.554e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,23-08-2021 23:00:04
+Interest Income,5.555e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,24-08-2021 23:00:03
+Interest Income,5.555e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,25-08-2021 23:00:03
+Interest Income,5.556e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,26-08-2021 23:00:03
+Interest Income,5.557e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,27-08-2021 23:00:04
+Interest Income,5.557e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,28-08-2021 23:00:03
+Interest Income,5.558e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,29-08-2021 23:00:03
+Interest Income,5.558e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,30-08-2021 23:00:03
+Interest Income,5.559e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,31-08-2021 23:00:03
+Interest Income,5.56e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,01-09-2021 23:00:03
+Interest Income,5.56e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,02-09-2021 23:00:03
+Interest Income,5.561e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,03-09-2021 23:00:03
+Interest Income,5.561e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,04-09-2021 23:00:03
+Interest Income,5.562e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,05-09-2021 23:00:04
+Interest Income,5.563e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,06-09-2021 23:00:03
+Interest Income,5.563e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,07-09-2021 23:00:03
+Interest Income,5.564e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,08-09-2021 23:00:03
+Interest Income,5.564e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,09-09-2021 23:00:04
+Interest Income,5.565e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,10-09-2021 23:00:03
+Interest Income,5.565e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,11-09-2021 23:00:03
+Interest Income,5.566e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,12-09-2021 23:00:03
+Interest Income,5.567e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,13-09-2021 23:00:03
+Interest Income,5.567e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,14-09-2021 23:00:03
+Interest Income,5.568e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,15-09-2021 23:00:03
+Interest Income,5.568e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,16-09-2021 23:00:03
+Interest Income,5.569e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,17-09-2021 23:00:03
+Interest Income,5.57e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,18-09-2021 23:00:03
+Interest Income,5.57e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,19-09-2021 23:00:04
+Interest Income,5.571e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,20-09-2021 23:00:04
+Interest Income,5.571e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,21-09-2021 23:00:03
+Interest Income,5.572e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,22-09-2021 23:00:03
+Interest Income,5.573e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,23-09-2021 23:00:04
+Interest Income,5.573e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,24-09-2021 23:00:03
+Interest Income,5.574e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,25-09-2021 23:00:03
+Interest Income,5.574e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,26-09-2021 23:00:04
+Interest Income,5.575e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,27-09-2021 23:00:03
+Interest Income,5.576e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,28-09-2021 23:00:03
+Interest Income,5.576e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,29-09-2021 23:00:03
+Interest Income,5.577e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,30-09-2021 23:00:03
+Interest Income,5.577e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,01-10-2021 23:00:03
+Interest Income,5.578e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,02-10-2021 23:00:03
+Interest Income,5.579e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,03-10-2021 23:00:03
+Interest Income,5.579e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,04-10-2021 23:00:04
+Interest Income,5.58e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,05-10-2021 23:00:03
+Interest Income,5.58e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,06-10-2021 23:00:04
+Interest Income,5.581e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,07-10-2021 23:00:03
+Interest Income,5.582e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,08-10-2021 23:00:03
+Interest Income,5.582e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,09-10-2021 23:00:04
+Interest Income,5.583e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,10-10-2021 23:00:04
+Interest Income,5.583e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,11-10-2021 23:00:03
+Interest Income,5.584e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,12-10-2021 23:00:03
+Interest Income,5.585e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,13-10-2021 23:00:03
+Interest Income,5.585e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,14-10-2021 23:00:03
+Interest Income,5.586e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,15-10-2021 23:00:03
+Interest Income,5.586e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,16-10-2021 23:00:03
+Interest Income,5.587e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,17-10-2021 23:00:04
+Interest Income,5.588e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,18-10-2021 23:00:03
+Interest Income,5.588e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,19-10-2021 23:00:03
+Interest Income,5.589e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,20-10-2021 23:00:04
+Interest Income,5.589e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,21-10-2021 23:00:04
+Interest Income,5.59e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,22-10-2021 23:00:03
+Interest Income,5.591e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,23-10-2021 23:00:03
+Interest Income,5.591e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,24-10-2021 23:00:03
+Interest Income,5.592e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,25-10-2021 23:00:04
+Interest Income,5.592e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,26-10-2021 23:00:03
+Interest Income,5.593e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,27-10-2021 23:00:04
+Interest Income,5.594e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,28-10-2021 23:00:03
+Interest Income,5.594e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,29-10-2021 23:00:03
+Interest Income,5.595e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,30-10-2021 23:00:03
+Interest Income,5.595e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,01-11-2021 00:00:03
+Interest Income,5.596e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,02-11-2021 00:00:04
+Interest Income,5.597e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,03-11-2021 00:00:04
+Interest Income,5.597e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,04-11-2021 00:00:04
+Interest Income,5.598e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,05-11-2021 00:00:04
+Interest Income,5.598e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,06-11-2021 00:00:04
+Interest Income,5.599e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,07-11-2021 00:00:04
+Interest Income,5.6e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,08-11-2021 00:00:04
+Deposit,0.03693773,BTC,0.0,,0.0,-,Nexo,,approved / Transfer from Credit Line Wallet to Savings Wallet,08-11-2021 19:10:32
+Interest Income,5.6e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,09-11-2021 00:00:04
+Interest Income,3.96e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,09-11-2021 00:00:04
+Interest Income,3.96e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,10-11-2021 00:00:04
+Interest Income,5.601e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,10-11-2021 00:00:04
+Interest Income,5.601e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,11-11-2021 00:00:04
+Interest Income,3.97e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,11-11-2021 00:00:04
+Interest Income,5.602e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,12-11-2021 00:00:03
+Interest Income,3.97e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,12-11-2021 00:00:03
+Interest Income,5.603e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,13-11-2021 00:00:04
+Interest Income,3.97e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,13-11-2021 00:00:04
+Interest Income,3.97e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,14-11-2021 00:00:03
+Interest Income,5.603e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,14-11-2021 00:00:03
+Interest Income,3.97e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,15-11-2021 00:00:04
+Interest Income,5.604e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,15-11-2021 00:00:04
+Interest Income,3.97e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,16-11-2021 00:00:04
+Interest Income,5.604e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,16-11-2021 00:00:04
+Interest Income,3.97e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,17-11-2021 00:00:03
+Interest Income,5.605e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,17-11-2021 00:00:03
+Interest Income,3.97e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,18-11-2021 00:00:03
+Interest Income,5.606e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,18-11-2021 00:00:03
+Interest Income,5.606e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,19-11-2021 00:00:05
+Interest Income,3.97e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,19-11-2021 00:00:05
+Interest Income,5.607e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,20-11-2021 00:00:05
+Interest Income,3.97e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,20-11-2021 00:00:05
+Interest Income,3.97e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,21-11-2021 00:00:05
+Interest Income,5.608e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,21-11-2021 00:00:05
+Interest Income,5.608e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,22-11-2021 00:00:05
+Interest Income,3.97e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,22-11-2021 00:00:05
+Interest Income,5.609e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,23-11-2021 00:00:04
+Interest Income,3.97e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,23-11-2021 00:00:04
+Interest Income,5.609e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,24-11-2021 06:00:05
+Interest Income,3.97e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,24-11-2021 06:00:05
+Interest Income,5.61e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,25-11-2021 06:00:05
+Interest Income,3.97e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,25-11-2021 06:00:05
+Interest Income,5.611e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,26-11-2021 06:00:04
+Interest Income,3.97e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,26-11-2021 06:00:04
+Interest Income,3.97e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,27-11-2021 06:00:04
+Interest Income,5.611e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,27-11-2021 06:00:04
+Interest Income,5.612e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,28-11-2021 06:00:04
+Interest Income,3.97e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,28-11-2021 06:00:04
+Interest Income,5.612e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,29-11-2021 06:00:04
+Interest Income,3.97e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,29-11-2021 06:00:04
+Interest Income,5.613e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,30-11-2021 06:00:04
+Interest Income,3.97e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,30-11-2021 06:00:04
+Interest Income,3.97e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,01-12-2021 06:00:05
+Interest Income,5.614e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,01-12-2021 06:00:05
+Interest Income,3.97e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,02-12-2021 06:00:04
+Interest Income,5.614e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,02-12-2021 06:00:04
+Interest Income,5.615e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,03-12-2021 06:00:04
+Interest Income,3.97e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,03-12-2021 06:00:04
+Interest Income,5.615e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,04-12-2021 06:00:04
+Interest Income,3.97e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,04-12-2021 06:00:04
+Interest Income,3.98e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,05-12-2021 06:00:04
+Interest Income,5.616e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,05-12-2021 06:00:04
+Gift / Tip,0.0005075,BTC,0.0,,0.0,-,Nexo,,approved / Referral bonus,05-12-2021 08:29:36
+Interest Income,5.617e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,06-12-2021 06:00:04
+Interest Income,3.98e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,06-12-2021 06:00:04
+Interest Income,5.617e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,07-12-2021 06:00:05
+Interest Income,3.98e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,07-12-2021 06:00:05
+Interest Income,3.98e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,08-12-2021 06:00:05
+Interest Income,5.618e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,08-12-2021 06:00:05
+Interest Income,5.618e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,09-12-2021 06:00:05
+Interest Income,3.98e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,09-12-2021 06:00:05
+Interest Income,3.98e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,10-12-2021 06:00:04
+Interest Income,5.619e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,10-12-2021 06:00:04
+Interest Income,5.62e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,11-12-2021 06:00:04
+Interest Income,3.98e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,11-12-2021 06:00:04
+Interest Income,5.62e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,12-12-2021 06:00:04
+Interest Income,3.98e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,12-12-2021 06:00:04
+Interest Income,5.621e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,13-12-2021 06:00:05
+Interest Income,3.98e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,13-12-2021 06:00:05
+Interest Income,3.98e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,14-12-2021 06:00:05
+Interest Income,5.621e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,14-12-2021 06:00:05
+Interest Income,5.622e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,15-12-2021 06:00:04
+Interest Income,3.98e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,15-12-2021 06:00:04
+Interest Income,3.98e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,16-12-2021 06:00:05
+Interest Income,5.623e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,16-12-2021 06:00:05
+Interest Income,5.623e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,17-12-2021 06:00:05
+Interest Income,3.98e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,17-12-2021 06:00:05
+Interest Income,3.98e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,18-12-2021 06:00:04
+Interest Income,5.624e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,18-12-2021 06:00:04
+Interest Income,5.624e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,19-12-2021 06:00:05
+Interest Income,3.98e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,19-12-2021 06:00:05
+Interest Income,5.625e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,20-12-2021 06:00:05
+Interest Income,3.98e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,20-12-2021 06:00:05
+Interest Income,5.626e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,21-12-2021 06:00:05
+Interest Income,3.98e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,21-12-2021 06:00:05
+Interest Income,5.626e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,22-12-2021 06:00:04
+Interest Income,3.98e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,22-12-2021 06:00:04
+Interest Income,3.98e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,23-12-2021 06:00:04
+Interest Income,5.627e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,23-12-2021 06:00:04
+Interest Income,5.627e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,24-12-2021 06:00:04
+Interest Income,3.98e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,24-12-2021 06:00:04
+Interest Income,3.98e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,25-12-2021 06:00:04
+Interest Income,5.628e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,25-12-2021 06:00:04
+Interest Income,3.98e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,26-12-2021 06:00:04
+Interest Income,5.629e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,26-12-2021 06:00:04
+Interest Income,5.629e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,27-12-2021 06:00:05
+Interest Income,3.98e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,27-12-2021 06:00:05
+Interest Income,5.63e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,28-12-2021 06:00:05
+Interest Income,3.99e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,28-12-2021 06:00:05
+Interest Income,5.63e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,29-12-2021 06:00:05
+Interest Income,3.99e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,29-12-2021 06:00:05
+Interest Income,5.631e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,30-12-2021 06:00:04
+Interest Income,3.99e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,30-12-2021 06:00:04
+Interest Income,3.99e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,31-12-2021 06:00:05
+Interest Income,5.632e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,31-12-2021 06:00:05
+Interest Income,5.632e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,01-01-2022 06:00:05
+Interest Income,3.99e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,01-01-2022 06:00:05
+Interest Income,3.99e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,02-01-2022 06:00:05
+Interest Income,5.633e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,02-01-2022 06:00:05
+Interest Income,5.633e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,03-01-2022 06:00:05
+Interest Income,3.99e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,03-01-2022 06:00:05
+Interest Income,5.634e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,04-01-2022 06:00:04
+Interest Income,3.99e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,04-01-2022 06:00:04
+Interest Income,5.635e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,05-01-2022 06:00:05
+Interest Income,3.99e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,05-01-2022 06:00:05
+Interest Income,5.635e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,06-01-2022 06:00:04
+Interest Income,4.04e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,06-01-2022 06:00:04
+Interest Income,5.636e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,07-01-2022 06:00:05
+Interest Income,4.04e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,07-01-2022 06:00:05
+Interest Income,5.637e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,08-01-2022 06:00:04
+Interest Income,4.04e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,08-01-2022 06:00:04
+Interest Income,4.04e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,09-01-2022 06:00:05
+Interest Income,5.637e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,09-01-2022 06:00:05
+Interest Income,4.05e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,10-01-2022 06:00:04
+Interest Income,5.638e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,10-01-2022 06:00:04
+Withdrawal,0.0,,0.00909198,BTC,0.0,-,Nexo,,approved / Auto Transfer from Savings Wallet to Credit Line Wallet,10-01-2022 14:23:35
+Withdrawal,0.0,,1.3e-07,ETH,0.0,-,Nexo,,approved / Auto Transfer from Savings Wallet to Credit Line Wallet,10-01-2022 14:23:35
+Interest Income,3.07e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,11-01-2022 06:00:04
+Interest Income,5.638e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,11-01-2022 06:00:04
+Interest Income,3.07e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,12-01-2022 06:00:03
+Interest Income,5.639e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,12-01-2022 06:00:03
+Interest Income,3.07e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,13-01-2022 06:00:04
+Interest Income,5.64e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,13-01-2022 06:00:04
+Interest Income,3.07e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,14-01-2022 06:00:04
+Interest Income,5.64e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,14-01-2022 06:00:04
+Interest Income,3.07e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,15-01-2022 06:00:04
+Interest Income,5.641e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,15-01-2022 06:00:04
+Interest Income,3.07e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,16-01-2022 06:00:04
+Interest Income,5.641e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,16-01-2022 06:00:04
+Interest Income,3.07e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,17-01-2022 06:00:03
+Interest Income,5.642e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,17-01-2022 06:00:03
+Interest Income,5.643e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,18-01-2022 06:00:04
+Interest Income,3.07e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,18-01-2022 06:00:04
+Interest Income,3.07e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,19-01-2022 06:00:04
+Interest Income,5.643e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,19-01-2022 06:00:04
+Interest Income,3.07e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,20-01-2022 06:00:04
+Interest Income,5.644e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,20-01-2022 06:00:04
+Interest Income,3.07e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,21-01-2022 06:00:04
+Interest Income,5.644e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,21-01-2022 06:00:04
+Deposit,0.0269,BTC,0.0,,0.0,-,Nexo,,approved / f2cfb3dc16f39abce5c4353c6048c28a6440c79de08f2375c461ab5b5d7c693f,21-01-2022 21:53:39
+Deposit,0.02597076,BTC,0.0,,0.0,-,Nexo,,approved / 52c4d93234eaf085930abe9543fcf3d2e999ec9ccaacaa643ea52a695fd2f32a,21-01-2022 21:55:56
+Deposit,0.4125,ETH,0.0,,0.0,-,Nexo,,approved / 0xff7ae7c3d9b7d87b23fb7cebdcc6f14678925446f36a7cd44f564a46a440c7d1,21-01-2022 22:06:12
+Deposit,0.386,ETH,0.0,,0.0,-,Nexo,,approved / 0xb5f74a3fe6829e6f277c0ea21c6ca21dc2c2b59858053aa5c4da8c3587b9f38f,21-01-2022 22:07:05
+Trade,-999.473,USD,1000.0,USDC,0.0,-,Nexo,,approved / Lori West,21-01-2022 23:11:03
+Withdrawal,0.0,,0.05542179,BTC,0.0,-,Nexo,,approved / Transfer from Savings Wallet to Credit Line Wallet,21-01-2022 23:11:03
+Deposit,1000.0,USDC,0.0,,0.0,-,Nexo,,approved / Credit Granting Top Up,21-01-2022 23:11:33
+Withdrawal,0.0,,1000.0,USDC,0.0,-,Nexo,,approved / USDC withdrawal,21-01-2022 23:19:19
+Withdrawal,0.0,,0.026,BTC,0.0,-,Nexo,,STAKING     approved / Transfer from Savings Wallet to Term Wallet,21-01-2022 23:47:15
+Deposit,0.026,BTC,0.0,,0.0,,staking,,STAKING     approved / Transfer from Savings Wallet to Term Wallet,21-01-2022 23:47:15
+Withdrawal,0.0,,1.32385917,ETH,0.0,-,Nexo,,STAKING     approved / Transfer from Savings Wallet to Term Wallet,21-01-2022 23:49:07
+Deposit,1.32385917,ETH,0.0,,0.0,,staking,,STAKING     approved / Transfer from Savings Wallet to Term Wallet,21-01-2022 23:49:07
+Deposit,493.04146548,NEXO,0.0,,0.0,-,Nexo,,approved / 0xc6d3f71f4977d1edf6a2f9ba7a39bf4f83e19d3ac83c9b46a7166c93ea13cf4e,22-01-2022 01:15:24
+Deposit,493.04146548,NEXO,0.0,,0.0,,staking,,STAKING     approved / Transfer from Savings Wallet to Term Wallet,22-01-2022 01:29:26
+Withdrawal,0.0,,493.04146548,NEXO,0.0,-,Nexo,,STAKING     approved / Transfer from Savings Wallet to Term Wallet,22-01-2022 01:29:26
+Deposit,0.12373,ETH,0.0,,0.0,-,Nexo,,approved / 0x00ad60e9c93a7051300f8ca7855e94ee599364b0ec08cc88b8826b968dc70631,27-01-2022 19:00:34
+Deposit,6.8143,DOT,0.0,,0.0,-,Nexo,,approved / 0x1fcb3715fd7fbd6dd75c53df6783ccd3a5aafece59d3dda864849a8381e4133f,27-01-2022 19:11:37
+Deposit,0.0694107,ETH,0.0,,0.0,-,Nexo,,approved / 0xe9fb9f378f6a3fd82df4ae99d27ee4491d44052bd3cc3c75f43352bd5766bed8,27-01-2022 19:12:15
+Deposit,114.3264,XRP,0.0,,0.0,-,Nexo,,approved / 111774F7506AC981760CC8543AF2F5105B25E91EE84E354435E73362F845BC28,27-01-2022 19:13:42
+Deposit,480.8913,ADA,0.0,,0.0,-,Nexo,,approved / 2158596160fbf292e3e7d81a6c16406ba5afb9d93ff5b810443657f604a16e84,27-01-2022 19:21:20
+Deposit,0.1034,BNB,0.0,,0.0,-,Nexo,,approved / F6019C516CE113E294BFA6C22B2A0098076DAE77B277C42E4266789ECC012222,27-01-2022 19:23:44
+Withdrawal,0.0,,6.8143,DOT,0.0,-,Nexo,,approved / Transfer from Savings Wallet to Credit Line Wallet,27-01-2022 19:41:07
+Deposit,0.0111,BTC,0.0,,0.0,-,Nexo,,approved / 35e5a92489760a70acb46720d077c7ceccfb8e2b5fb3253565a70230e1fd64a9,27-01-2022 19:41:22
+Withdrawal,0.0,,480.8913,ADA,0.0,-,Nexo,,approved / Transfer from Savings Wallet to Credit Line Wallet,27-01-2022 19:42:11
+Withdrawal,0.0,,8.71e-05,BTC,0.0,-,Nexo,,approved / Transfer from Savings Wallet to Credit Line Wallet,27-01-2022 19:44:36
+Withdrawal,0.0,,0.1034,BNB,0.0,-,Nexo,,approved / Transfer from Savings Wallet to Credit Line Wallet,27-01-2022 19:45:36
+Withdrawal,0.0,,0.01110002,BTC,0.0,-,Nexo,,approved / Transfer from Savings Wallet to Credit Line Wallet,27-01-2022 19:46:53
+Withdrawal,0.0,,0.1931407,ETH,0.0,-,Nexo,,approved / Transfer from Savings Wallet to Credit Line Wallet,27-01-2022 19:50:37
+Withdrawal,0.0,,114.3264,XRP,0.0,-,Nexo,,approved / Transfer from Savings Wallet to Credit Line Wallet,27-01-2022 19:52:39
+Deposit,0.01236429,BTC,0.0,,0.0,-,Nexo,,approved / 8395c2aa4ec70385242dac813715de30531dbc8188bdf1fa5ee77f099e170542,27-01-2022 19:56:07
+Withdrawal,0.0,,0.01236429,BTC,0.0,-,Nexo,,approved / Transfer from Savings Wallet to Credit Line Wallet,27-01-2022 19:59:11
+Deposit,0.026,BTC,0.0,,0.0,-,Nexo,,UNSTAKING     approved / Transfer from Term Wallet to Savings Wallet,22-02-2022 06:01:27
+Withdrawal,0.0,,0.026,BTC,0.0,,staking,,UNSTAKING     approved / Transfer from Term Wallet to Savings Wallet,22-02-2022 06:01:27
+Deposit,1.32385917,ETH,0.0,,0.0,-,Nexo,,UNSTAKING     approved / Transfer from Term Wallet to Savings Wallet,22-02-2022 06:01:27
+Withdrawal,0.0,,1.32385917,ETH,0.0,,staking,,UNSTAKING     approved / Transfer from Term Wallet to Savings Wallet,22-02-2022 06:01:27
+Staking,5.64034645,NEXO,0.0,,0.0,-,Nexo,,approved / Term Deposit Interest,22-02-2022 06:01:27
+Staking,5.928e-05,BTC,0.0,,0.0,-,Nexo,,approved / Term Deposit Interest,22-02-2022 06:01:27
+Staking,0.00301922,ETH,0.0,,0.0,-,Nexo,,approved / Term Deposit Interest,22-02-2022 06:01:27
+Staking,1.57797117,NEXO,0.0,,0.0,-,Nexo,,approved / Term Deposit Interest,22-02-2022 06:01:27
+Interest Income,0.28023254,NEXO,0.0,,0.0,-,Nexo,,approved / 0.0001999405 ETH,23-02-2022 06:00:07
+Interest Income,0.07871371,NEXO,0.0,,0.0,-,Nexo,,approved / 0.0000039267 BTC,23-02-2022 06:00:07
+Interest Income,0.00133815,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,23-02-2022 06:00:07
+Interest Income,0.08312192,NEXO,0.0,,0.0,-,Nexo,,approved / 0.0000039267 BTC,24-02-2022 06:00:06
+Interest Income,0.00140494,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,24-02-2022 06:00:06
+Interest Income,0.28467901,NEXO,0.0,,0.0,-,Nexo,,approved / 0.0001999405 ETH,24-02-2022 06:00:06
+Interest Income,0.00147339,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,25-02-2022 06:00:06
+Interest Income,0.0785285,NEXO,0.0,,0.0,-,Nexo,,approved / 0.0000039267 BTC,25-02-2022 06:00:06
+Interest Income,0.27103318,NEXO,0.0,,0.0,-,Nexo,,approved / 0.0001999405 ETH,25-02-2022 06:00:06
+Interest Income,0.26643729,NEXO,0.0,,0.0,-,Nexo,,approved / 0.0001999405 ETH,26-02-2022 06:00:06
+Interest Income,0.00153846,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,26-02-2022 06:00:06
+Interest Income,0.07352181,NEXO,0.0,,0.0,-,Nexo,,approved / 0.0000039267 BTC,26-02-2022 06:00:06
+Interest Income,0.07652443,NEXO,0.0,,0.0,-,Nexo,,approved / 0.0000039267 BTC,27-02-2022 06:00:06
+Interest Income,0.00160177,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,27-02-2022 06:00:06
+Interest Income,0.27372555,NEXO,0.0,,0.0,-,Nexo,,approved / 0.0001999405 ETH,27-02-2022 06:00:06
+Interest Income,0.27281282,NEXO,0.0,,0.0,-,Nexo,,approved / 0.0001999405 ETH,28-02-2022 06:00:05
+Interest Income,0.07727295,NEXO,0.0,,0.0,-,Nexo,,approved / 0.0000039267 BTC,28-02-2022 06:00:05
+Interest Income,0.001667,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,28-02-2022 06:00:05
+Interest Income,0.00173221,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,01-03-2022 06:00:06
+Interest Income,0.07924043,NEXO,0.0,,0.0,-,Nexo,,approved / 0.0000039267 BTC,01-03-2022 06:00:06
+Interest Income,0.27508001,NEXO,0.0,,0.0,-,Nexo,,approved / 0.0001999405 ETH,01-03-2022 06:00:06
+Interest Income,3.14e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,02-03-2022 06:00:06
+Interest Income,0.00016002,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,02-03-2022 06:00:06
+Interest Income,0.00179821,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,02-03-2022 06:00:06
+Interest Income,0.00179855,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,03-03-2022 06:00:05
+Interest Income,0.00016004,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,03-03-2022 06:00:05
+Interest Income,3.14e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,03-03-2022 06:00:05
+Interest Income,0.00179888,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,04-03-2022 06:00:06
+Interest Income,0.00016006,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,04-03-2022 06:00:06
+Interest Income,3.14e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,04-03-2022 06:00:06
+Interest Income,3.14e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,05-03-2022 06:00:06
+Interest Income,0.00179921,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,05-03-2022 06:00:06
+Interest Income,0.00016008,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,05-03-2022 06:00:06
+Interest Income,3.14e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,06-03-2022 06:00:06
+Interest Income,0.00179955,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,06-03-2022 06:00:06
+Interest Income,0.0001601,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,06-03-2022 06:00:06
+Interest Income,0.00179988,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,07-03-2022 06:00:06
+Interest Income,3.14e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,07-03-2022 06:00:06
+Interest Income,0.00016012,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,07-03-2022 06:00:06
+Interest Income,0.00016013,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,08-03-2022 06:00:06
+Interest Income,3.14e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,08-03-2022 06:00:06
+Interest Income,0.00180021,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,08-03-2022 06:00:06
+Interest Income,3.14e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,09-03-2022 06:00:06
+Interest Income,0.00016015,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,09-03-2022 06:00:06
+Interest Income,0.00180055,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,09-03-2022 06:00:06
+Interest Income,0.00016017,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,10-03-2022 06:00:06
+Interest Income,3.14e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,10-03-2022 06:00:06
+Interest Income,0.00180088,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,10-03-2022 06:00:06
+Interest Income,0.00016019,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,11-03-2022 06:00:06
+Interest Income,0.00180122,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,11-03-2022 06:00:06
+Interest Income,3.14e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,11-03-2022 06:00:06
+Interest Income,0.00016021,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,12-03-2022 06:00:06
+Interest Income,3.14e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,12-03-2022 06:00:06
+Interest Income,0.00180155,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,12-03-2022 06:00:06
+Interest Income,3.14e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,13-03-2022 06:00:06
+Interest Income,0.00016023,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,13-03-2022 06:00:06
+Interest Income,0.00180188,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,13-03-2022 06:00:06
+Interest Income,0.00180222,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,14-03-2022 06:00:06
+Interest Income,0.00016025,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,14-03-2022 06:00:06
+Interest Income,3.14e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,14-03-2022 06:00:06
+Interest Income,3.14e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,15-03-2022 06:00:06
+Interest Income,0.00180255,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,15-03-2022 06:00:06
+Interest Income,0.00016027,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,15-03-2022 06:00:06
+Interest Income,0.00016029,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,16-03-2022 06:00:06
+Interest Income,3.14e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,16-03-2022 06:00:06
+Interest Income,0.00180289,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,16-03-2022 06:00:06
+Interest Income,0.00016031,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,17-03-2022 06:00:06
+Interest Income,0.00180322,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,17-03-2022 06:00:06
+Interest Income,3.14e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,17-03-2022 06:00:06
+Interest Income,0.00180355,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,18-03-2022 06:00:06
+Interest Income,0.00016033,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,18-03-2022 06:00:06
+Interest Income,3.14e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,18-03-2022 06:00:06
+Interest Income,0.00016035,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,19-03-2022 06:00:06
+Interest Income,0.00180389,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,19-03-2022 06:00:06
+Interest Income,3.14e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,19-03-2022 06:00:06
+Interest Income,0.00180422,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,20-03-2022 06:00:06
+Interest Income,3.14e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,20-03-2022 06:00:06
+Interest Income,0.00016037,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,20-03-2022 06:00:06
+Interest Income,3.14e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,21-03-2022 06:00:06
+Interest Income,0.00180456,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,21-03-2022 06:00:06
+Interest Income,0.00016039,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,21-03-2022 06:00:06
+Interest Income,0.0001604,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,22-03-2022 06:00:06
+Interest Income,0.00180489,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,22-03-2022 06:00:06
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,22-03-2022 06:00:06
+Interest Income,0.00016042,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,23-03-2022 06:00:06
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,23-03-2022 06:00:06
+Interest Income,0.00180523,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,23-03-2022 06:00:06
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,24-03-2022 06:00:06
+Interest Income,0.00180556,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,24-03-2022 06:00:06
+Interest Income,0.00016044,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,24-03-2022 06:00:06
+Interest Income,0.00016046,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,25-03-2022 06:00:06
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,25-03-2022 06:00:06
+Interest Income,0.0018059,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,25-03-2022 06:00:06
+Interest Income,0.00016048,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,26-03-2022 06:00:06
+Interest Income,0.00180623,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,26-03-2022 06:00:06
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,26-03-2022 06:00:06
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,27-03-2022 05:00:06
+Interest Income,0.0001605,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,27-03-2022 05:00:06
+Interest Income,0.00180657,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,27-03-2022 05:00:06
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,28-03-2022 05:00:07
+Interest Income,0.00016052,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,28-03-2022 05:00:07
+Interest Income,0.0018069,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,28-03-2022 05:00:07
+Interest Income,0.00180724,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,29-03-2022 05:00:06
+Interest Income,0.00016054,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,29-03-2022 05:00:06
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,29-03-2022 05:00:06
+Interest Income,0.00180757,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,30-03-2022 05:00:09
+Interest Income,0.00016056,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,30-03-2022 05:00:09
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,30-03-2022 05:00:09
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,31-03-2022 05:00:07
+Interest Income,0.00180791,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,31-03-2022 05:00:07
+Interest Income,0.00016058,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,31-03-2022 05:00:07
+Interest Income,0.00180824,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,01-04-2022 05:00:06
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,01-04-2022 05:00:06
+Interest Income,0.0001606,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,01-04-2022 05:00:06
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,02-04-2022 05:00:07
+Interest Income,0.00180858,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,02-04-2022 05:00:07
+Interest Income,0.00016062,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,02-04-2022 05:00:07
+Interest Income,0.00180891,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,03-04-2022 05:00:06
+Interest Income,0.00016064,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,03-04-2022 05:00:06
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,03-04-2022 05:00:06
+Interest Income,0.00180925,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,04-04-2022 05:00:06
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,04-04-2022 05:00:06
+Interest Income,0.00016066,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,04-04-2022 05:00:06
+Interest Income,0.00016068,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,05-04-2022 05:00:06
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,05-04-2022 05:00:06
+Interest Income,0.00180958,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,05-04-2022 05:00:06
+Interest Income,0.00180992,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,06-04-2022 05:00:06
+Interest Income,0.0001607,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,06-04-2022 05:00:06
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,06-04-2022 05:00:06
+Interest Income,0.00016071,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,07-04-2022 05:00:06
+Interest Income,0.00181025,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,07-04-2022 05:00:06
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,07-04-2022 05:00:06
+Interest Income,0.00016073,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,08-04-2022 05:00:06
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,08-04-2022 05:00:06
+Interest Income,0.00181059,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,08-04-2022 05:00:06
+Interest Income,0.00181092,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,09-04-2022 05:00:06
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,09-04-2022 05:00:06
+Interest Income,0.00016075,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,09-04-2022 05:00:06
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,10-04-2022 05:00:06
+Interest Income,0.00016077,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,10-04-2022 05:00:06
+Interest Income,0.00181126,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,10-04-2022 05:00:06
+Interest Income,0.0018116,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,11-04-2022 05:00:06
+Interest Income,0.00016079,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,11-04-2022 05:00:06
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,11-04-2022 05:00:06
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,12-04-2022 05:00:07
+Interest Income,0.00181193,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,12-04-2022 05:00:07
+Interest Income,0.00016081,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,12-04-2022 05:00:07
+Interest Income,0.00016083,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,13-04-2022 05:00:07
+Interest Income,0.00181227,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,13-04-2022 05:00:07
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,13-04-2022 05:00:07
+Interest Income,0.00016085,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,14-04-2022 05:00:08
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,14-04-2022 05:00:08
+Interest Income,0.0018126,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,14-04-2022 05:00:08
+Interest Income,0.00181294,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,15-04-2022 05:00:09
+Interest Income,0.00016087,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,15-04-2022 05:00:09
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,15-04-2022 05:00:09
+Interest Income,0.00016089,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,16-04-2022 05:00:08
+Interest Income,0.00181328,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,16-04-2022 05:00:08
+Interest Income,3.15e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,16-04-2022 05:00:08
+Interest Income,0.00181361,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,17-04-2022 05:00:07
+Interest Income,0.00016091,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,17-04-2022 05:00:07
+Interest Income,3.16e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,17-04-2022 05:00:07
+Interest Income,0.00016093,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,18-04-2022 05:00:07
+Interest Income,3.16e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,18-04-2022 05:00:07
+Interest Income,0.00181395,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,18-04-2022 05:00:07
+Interest Income,0.00181428,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,19-04-2022 05:00:07
+Interest Income,0.00016095,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,19-04-2022 05:00:07
+Interest Income,3.16e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,19-04-2022 05:00:07
+Interest Income,3.16e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,20-04-2022 05:00:06
+Interest Income,0.00181462,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,20-04-2022 05:00:06
+Interest Income,0.00016097,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,20-04-2022 05:00:06
+Interest Income,0.00016099,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,21-04-2022 05:00:07
+Interest Income,3.16e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,21-04-2022 05:00:07
+Interest Income,0.00181496,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,21-04-2022 05:00:07
+Interest Income,0.00181529,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,22-04-2022 05:00:07
+Interest Income,0.00016101,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,22-04-2022 05:00:07
+Interest Income,3.16e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,22-04-2022 05:00:07
+Interest Income,0.00016103,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,23-04-2022 05:00:06
+Interest Income,0.00181563,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,23-04-2022 05:00:06
+Interest Income,3.16e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,23-04-2022 05:00:06
+Interest Income,3.16e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,24-04-2022 05:00:07
+Interest Income,0.00016104,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,24-04-2022 05:00:07
+Interest Income,0.00181597,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,24-04-2022 05:00:07
+Interest Income,3.16e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,25-04-2022 05:00:07
+Interest Income,0.0018163,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,25-04-2022 05:00:07
+Interest Income,0.00016106,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,25-04-2022 05:00:07
+Interest Income,3.16e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,26-04-2022 05:00:07
+Interest Income,0.00181664,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,26-04-2022 05:00:07
+Interest Income,0.00016108,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,26-04-2022 05:00:07
+Interest Income,3.16e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,27-04-2022 05:00:07
+Interest Income,0.0001611,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,27-04-2022 05:00:07
+Interest Income,0.00181698,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,27-04-2022 05:00:07
+Interest Income,0.00181731,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,28-04-2022 05:00:06
+Interest Income,0.00016112,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,28-04-2022 05:00:06
+Interest Income,3.16e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,28-04-2022 05:00:06
+Interest Income,0.00181765,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,29-04-2022 05:00:06
+Interest Income,3.16e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,29-04-2022 05:00:06
+Interest Income,0.00016114,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,29-04-2022 05:00:06
+Interest Income,3.5e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,30-04-2022 05:00:07
+Interest Income,0.00017864,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,30-04-2022 05:00:07
+Interest Income,0.00181799,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,30-04-2022 05:00:07
+Interest Income,0.00181832,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,01-05-2022 05:00:07
+Interest Income,0.00017866,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,01-05-2022 05:00:07
+Interest Income,3.5e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,01-05-2022 05:00:07
+Interest Income,0.0001612,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,02-05-2022 05:00:07
+Interest Income,3.16e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,02-05-2022 05:00:07
+Interest Income,0.00181866,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,02-05-2022 05:00:07
+Interest Income,0.001819,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,03-05-2022 05:00:06
+Interest Income,3.16e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,03-05-2022 05:00:06
+Interest Income,0.00016122,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,03-05-2022 05:00:06
+Interest Income,3.16e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,04-05-2022 05:00:07
+Interest Income,0.00016124,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,04-05-2022 05:00:07
+Interest Income,0.00181934,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,04-05-2022 05:00:07
+Interest Income,0.00016126,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,05-05-2022 05:00:06
+Interest Income,3.16e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,05-05-2022 05:00:06
+Interest Income,0.00181967,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,05-05-2022 05:00:06
+Interest Income,0.00016128,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,06-05-2022 05:00:06
+Interest Income,0.00182001,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,06-05-2022 05:00:06
+Interest Income,3.16e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,06-05-2022 05:00:06
+Interest Income,0.0001613,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,07-05-2022 05:00:06
+Interest Income,0.00182035,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,07-05-2022 05:00:06
+Interest Income,3.16e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,07-05-2022 05:00:06
+Interest Income,0.00016132,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,08-05-2022 05:00:06
+Interest Income,0.00182069,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,08-05-2022 05:00:06
+Interest Income,3.16e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,08-05-2022 05:00:06
+Interest Income,0.00016134,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,09-05-2022 05:00:07
+Interest Income,0.00182102,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,09-05-2022 05:00:07
+Interest Income,3.16e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,09-05-2022 05:00:07
+Interest Income,3.16e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,10-05-2022 05:00:07
+Interest Income,0.00182136,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,10-05-2022 05:00:07
+Interest Income,0.00016136,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,10-05-2022 05:00:07
+Interest Income,3.16e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,11-05-2022 05:00:07
+Interest Income,0.00016138,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,11-05-2022 05:00:07
+Interest Income,0.0018217,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,11-05-2022 05:00:07
+Interest Income,3.16e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,12-05-2022 05:00:10
+Interest Income,0.00182204,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,12-05-2022 05:00:10
+Interest Income,0.0001614,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,12-05-2022 05:00:10
+Interest Income,0.00016142,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,13-05-2022 05:00:10
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,13-05-2022 05:00:10
+Interest Income,0.00182237,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,13-05-2022 05:00:10
+Interest Income,0.00182271,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,14-05-2022 05:00:09
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,14-05-2022 05:00:09
+Interest Income,0.00016144,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,14-05-2022 05:00:09
+Interest Income,0.00016146,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,15-05-2022 05:00:07
+Interest Income,0.00182305,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,15-05-2022 05:00:07
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,15-05-2022 05:00:07
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,16-05-2022 05:00:08
+Interest Income,0.00182339,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,16-05-2022 05:00:08
+Interest Income,0.00016148,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,16-05-2022 05:00:08
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,17-05-2022 05:00:09
+Interest Income,0.0001615,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,17-05-2022 05:00:09
+Interest Income,0.00182373,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,17-05-2022 05:00:09
+Interest Income,0.00182406,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,18-05-2022 05:00:08
+Interest Income,0.00016152,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,18-05-2022 05:00:08
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,18-05-2022 05:00:08
+Interest Income,0.00016154,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,19-05-2022 05:00:06
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,19-05-2022 05:00:06
+Interest Income,0.0018244,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,19-05-2022 05:00:06
+Interest Income,0.00182474,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,20-05-2022 05:00:07
+Interest Income,0.00016155,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,20-05-2022 05:00:07
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,20-05-2022 05:00:07
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,21-05-2022 05:00:06
+Interest Income,0.00182508,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,21-05-2022 05:00:06
+Interest Income,0.00016157,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,21-05-2022 05:00:06
+Interest Income,0.00016159,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,22-05-2022 05:00:06
+Interest Income,0.00182542,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,22-05-2022 05:00:06
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,22-05-2022 05:00:06
+Interest Income,0.00016161,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,23-05-2022 05:00:07
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,23-05-2022 05:00:07
+Interest Income,0.00182575,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,23-05-2022 05:00:07
+Interest Income,0.00016163,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,24-05-2022 05:00:06
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,24-05-2022 05:00:06
+Interest Income,0.00182609,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,24-05-2022 05:00:06
+Interest Income,0.00016165,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,25-05-2022 05:00:07
+Interest Income,0.00182643,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,25-05-2022 05:00:07
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,25-05-2022 05:00:07
+Interest Income,0.00182677,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,26-05-2022 05:00:06
+Interest Income,0.00016167,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,26-05-2022 05:00:06
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,26-05-2022 05:00:06
+Interest Income,0.00016169,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,27-05-2022 05:00:06
+Interest Income,0.00182711,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,27-05-2022 05:00:06
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,27-05-2022 05:00:06
+Interest Income,0.00016171,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,28-05-2022 05:00:06
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,28-05-2022 05:00:06
+Interest Income,0.00182745,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,28-05-2022 05:00:06
+Interest Income,0.00016173,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,29-05-2022 05:00:06
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,29-05-2022 05:00:06
+Interest Income,0.00182779,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,29-05-2022 05:00:06
+Interest Income,0.00016175,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,30-05-2022 05:00:07
+Interest Income,0.00182813,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,30-05-2022 05:00:07
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,30-05-2022 05:00:07
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,31-05-2022 05:00:06
+Interest Income,0.00016177,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,31-05-2022 05:00:06
+Interest Income,0.00182846,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,31-05-2022 05:00:06
+Interest Income,0.00016179,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,01-06-2022 05:00:06
+Interest Income,0.0018288,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,01-06-2022 05:00:06
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,01-06-2022 05:00:06
+Interest Income,0.00016181,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,02-06-2022 05:00:06
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,02-06-2022 05:00:06
+Interest Income,0.00182914,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,02-06-2022 05:00:06
+Interest Income,0.00182948,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,03-06-2022 05:00:06
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,03-06-2022 05:00:06
+Interest Income,0.00016183,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,03-06-2022 05:00:06
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,04-06-2022 05:00:05
+Interest Income,0.00182982,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,04-06-2022 05:00:05
+Interest Income,0.00016185,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,04-06-2022 05:00:05
+Interest Income,0.00183016,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,05-06-2022 05:00:06
+Interest Income,0.00016187,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,05-06-2022 05:00:06
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,05-06-2022 05:00:06
+Interest Income,0.0018305,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,06-06-2022 05:00:06
+Interest Income,0.00016189,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,06-06-2022 05:00:06
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,06-06-2022 05:00:06
+Interest Income,3.17e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,07-06-2022 05:00:06
+Interest Income,0.00016191,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,07-06-2022 05:00:06
+Interest Income,0.00183084,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,07-06-2022 05:00:06
+Interest Income,0.00183118,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,08-06-2022 05:00:06
+Interest Income,3.18e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,08-06-2022 05:00:06
+Interest Income,0.00016193,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,08-06-2022 05:00:06
+Interest Income,0.00016194,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,09-06-2022 05:00:06
+Interest Income,3.18e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,09-06-2022 05:00:06
+Interest Income,0.00183152,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,09-06-2022 05:00:06
+Interest Income,0.00016196,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,10-06-2022 05:00:06
+Interest Income,3.18e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,10-06-2022 05:00:06
+Interest Income,0.00183186,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,10-06-2022 05:00:06
+Interest Income,3.18e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,11-06-2022 05:00:07
+Interest Income,0.0018322,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,11-06-2022 05:00:07
+Interest Income,0.00016198,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,11-06-2022 05:00:07
+Interest Income,0.000162,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,12-06-2022 05:00:06
+Interest Income,3.18e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,12-06-2022 05:00:06
+Interest Income,0.00183254,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,12-06-2022 05:00:06
+Interest Income,3.18e-06,BTC,0.0,,0.0,-,Nexo,,approved / BTC Interest Earned,13-06-2022 05:00:07
+Interest Income,0.00016202,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,13-06-2022 05:00:07
+Interest Income,0.00183288,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,13-06-2022 05:00:07
+Withdrawal,0.0,,0.01851483,ETH,0.0,-,Nexo,,approved / Auto Transfer from Savings Wallet to Credit Line Wallet,14-06-2022 01:25:55
+Withdrawal,0.0,,6.2e-06,NEXO,0.0,-,Nexo,,approved / Auto Transfer from Savings Wallet to Credit Line Wallet,14-06-2022 01:25:55
+Withdrawal,0.0,,0.02638885,BTC,0.0,-,Nexo,,approved / Auto Transfer from Savings Wallet to Credit Line Wallet,14-06-2022 01:25:55
+Interest Income,0.00183322,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,14-06-2022 05:00:07
+Interest Income,0.00015981,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,14-06-2022 05:00:07
+Interest Income,0.00183356,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,15-06-2022 05:00:07
+Interest Income,0.00015983,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,15-06-2022 05:00:07
+Interest Income,0.00015985,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,16-06-2022 05:00:08
+Interest Income,0.0018339,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,16-06-2022 05:00:08
+Interest Income,0.00015987,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,17-06-2022 05:00:07
+Interest Income,0.00183424,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,17-06-2022 05:00:07
+Interest Income,0.00183458,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,18-06-2022 05:00:07
+Interest Income,0.00015989,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,18-06-2022 05:00:07
+Withdrawal,0.0,,0.60888054,ETH,0.0,-,Nexo,,approved / Auto Transfer from Savings Wallet to Credit Line Wallet,18-06-2022 18:34:49
+Withdrawal,0.0,,7.79e-06,NEXO,0.0,-,Nexo,,approved / Auto Transfer from Savings Wallet to Credit Line Wallet,18-06-2022 18:34:49
+Interest Income,0.00183492,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,19-06-2022 05:00:07
+Interest Income,8.647e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,19-06-2022 05:00:07
+Interest Income,8.648e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,20-06-2022 05:00:06
+Interest Income,0.00183526,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,20-06-2022 05:00:06
+Interest Income,8.649e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,21-06-2022 05:00:07
+Interest Income,0.0018356,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,21-06-2022 05:00:07
+Interest Income,8.651e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,22-06-2022 05:00:07
+Interest Income,0.00183594,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,22-06-2022 05:00:07
+Interest Income,0.00183628,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,23-06-2022 05:00:07
+Interest Income,8.652e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,23-06-2022 05:00:07
+Interest Income,8.653e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,24-06-2022 05:00:06
+Interest Income,0.00183662,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,24-06-2022 05:00:06
+Interest Income,0.00183696,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,25-06-2022 05:00:07
+Interest Income,8.654e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,25-06-2022 05:00:07
+Interest Income,8.655e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,26-06-2022 05:00:07
+Interest Income,0.0018373,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,26-06-2022 05:00:07
+Interest Income,0.00183764,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,27-06-2022 05:00:07
+Interest Income,8.656e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,27-06-2022 05:00:07
+Interest Income,0.00183798,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,28-06-2022 05:00:06
+Interest Income,8.657e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,28-06-2022 05:00:06
+Interest Income,8.658e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,29-06-2022 05:00:07
+Interest Income,0.00183832,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,29-06-2022 05:00:07
+Interest Income,8.659e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,30-06-2022 05:00:08
+Interest Income,0.00183866,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,30-06-2022 05:00:08
+Interest Income,8.66e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,01-07-2022 05:00:08
+Interest Income,0.001066,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,01-07-2022 05:00:08
+Interest Income,0.00106611,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,02-07-2022 05:00:09
+Interest Income,8.661e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,02-07-2022 05:00:09
+Interest Income,0.00106623,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,03-07-2022 05:00:09
+Interest Income,8.662e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,03-07-2022 05:00:09
+Interest Income,0.00106634,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,04-07-2022 05:00:09
+Interest Income,8.663e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,04-07-2022 05:00:09
+Interest Income,0.00106646,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,05-07-2022 05:00:09
+Interest Income,8.664e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,05-07-2022 05:00:09
+Interest Income,0.00106657,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,06-07-2022 05:00:09
+Interest Income,8.665e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,06-07-2022 05:00:09
+Interest Income,8.666e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,07-07-2022 05:00:09
+Interest Income,0.00106669,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,07-07-2022 05:00:09
+Interest Income,8.667e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,08-07-2022 05:00:10
+Interest Income,0.0010668,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,08-07-2022 05:00:10
+Interest Income,0.00106691,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,09-07-2022 05:00:10
+Interest Income,8.668e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,09-07-2022 05:00:10
+Interest Income,0.00106703,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,10-07-2022 05:00:11
+Interest Income,8.669e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,10-07-2022 05:00:11
+Interest Income,8.67e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,11-07-2022 05:00:11
+Interest Income,0.00106714,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,11-07-2022 05:00:11
+Interest Income,8.671e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,12-07-2022 05:00:11
+Interest Income,0.00106726,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,12-07-2022 05:00:11
+Interest Income,8.672e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,13-07-2022 05:00:07
+Interest Income,0.00106737,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,13-07-2022 05:00:07
+Interest Income,8.674e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,14-07-2022 05:00:07
+Interest Income,0.00106749,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,14-07-2022 05:00:07
+Interest Income,0.0010676,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,15-07-2022 05:00:09
+Interest Income,8.675e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,15-07-2022 05:00:09
+Interest Income,0.00106772,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,16-07-2022 05:00:09
+Interest Income,8.676e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,16-07-2022 05:00:09
+Interest Income,8.677e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,17-07-2022 05:00:08
+Interest Income,0.00106783,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,17-07-2022 05:00:08
+Interest Income,8.678e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,18-07-2022 05:00:09
+Interest Income,0.00106795,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,18-07-2022 05:00:09
+Interest Income,0.00106806,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,19-07-2022 05:00:10
+Interest Income,8.679e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,19-07-2022 05:00:10
+Interest Income,8.68e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,20-07-2022 05:00:13
+Interest Income,0.00106818,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,20-07-2022 05:00:13
+Interest Income,8.681e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,21-07-2022 05:00:09
+Interest Income,0.00106829,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,21-07-2022 05:00:09
+Interest Income,0.00106841,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,22-07-2022 05:00:09
+Interest Income,8.682e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,22-07-2022 05:00:09
+Interest Income,0.00106852,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,23-07-2022 05:00:10
+Interest Income,8.683e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,23-07-2022 05:00:10
+Interest Income,8.684e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,24-07-2022 05:00:10
+Interest Income,0.00106864,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,24-07-2022 05:00:10
+Interest Income,0.00106875,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,25-07-2022 05:00:10
+Interest Income,8.685e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,25-07-2022 05:00:10
+Interest Income,8.686e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,26-07-2022 05:00:10
+Interest Income,0.00106887,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,26-07-2022 05:00:10
+Interest Income,0.00106898,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,27-07-2022 05:00:10
+Interest Income,8.687e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,27-07-2022 05:00:10
+Interest Income,0.0010691,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,28-07-2022 05:00:10
+Interest Income,8.688e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,28-07-2022 05:00:10
+Interest Income,8.689e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,29-07-2022 05:00:10
+Interest Income,0.00106921,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,29-07-2022 05:00:10
+Interest Income,0.00106933,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,30-07-2022 05:00:10
+Interest Income,8.69e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,30-07-2022 05:00:10
+Interest Income,0.00106944,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,31-07-2022 05:00:10
+Interest Income,8.691e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,31-07-2022 05:00:10
+Interest Income,0.00106956,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,01-08-2022 05:00:10
+Interest Income,8.692e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,01-08-2022 05:00:10
+Interest Income,0.00106967,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,02-08-2022 05:00:10
+Interest Income,8.693e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,02-08-2022 05:00:10
+Interest Income,0.00106978,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,03-08-2022 05:00:10
+Interest Income,8.694e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,03-08-2022 05:00:10
+Interest Income,8.695e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,04-08-2022 05:00:10
+Interest Income,0.0010699,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,04-08-2022 05:00:10
+Interest Income,8.697e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,05-08-2022 05:00:11
+Interest Income,0.00107001,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,05-08-2022 05:00:11
+Interest Income,0.00107013,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,06-08-2022 05:00:10
+Interest Income,8.698e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,06-08-2022 05:00:10
+Interest Income,8.699e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,07-08-2022 05:00:10
+Interest Income,0.00107024,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,07-08-2022 05:00:10
+Interest Income,8.7e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,08-08-2022 05:00:10
+Interest Income,0.00107036,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,08-08-2022 05:00:10
+Interest Income,8.701e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,09-08-2022 05:00:11
+Interest Income,0.00107047,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,09-08-2022 05:00:11
+Interest Income,0.00107059,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,10-08-2022 05:00:07
+Interest Income,8.702e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,10-08-2022 05:00:07
+Interest Income,8.703e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,11-08-2022 05:00:07
+Interest Income,0.0010707,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,11-08-2022 05:00:07
+Interest Income,8.704e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,12-08-2022 05:00:08
+Interest Income,0.00107082,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,12-08-2022 05:00:08
+Interest Income,8.705e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,13-08-2022 05:00:08
+Interest Income,0.00107094,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,13-08-2022 05:00:08
+Interest Income,0.00107105,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,14-08-2022 05:00:08
+Interest Income,8.706e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,14-08-2022 05:00:08
+Interest Income,8.707e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,15-08-2022 05:00:09
+Interest Income,0.00107117,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,15-08-2022 05:00:09
+Interest Income,0.00107128,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,16-08-2022 05:00:09
+Interest Income,8.708e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,16-08-2022 05:00:09
+Interest Income,8.709e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,17-08-2022 05:00:09
+Interest Income,0.0010714,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,17-08-2022 05:00:09
+Interest Income,0.00107151,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,18-08-2022 05:00:09
+Interest Income,8.71e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,18-08-2022 05:00:09
+Interest Income,8.711e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,19-08-2022 05:00:09
+Interest Income,0.00107163,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,19-08-2022 05:00:09
+Interest Income,8.712e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,20-08-2022 05:00:09
+Interest Income,0.00107174,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,20-08-2022 05:00:09
+Interest Income,0.00107186,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,21-08-2022 05:00:09
+Interest Income,8.713e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,21-08-2022 05:00:09
+Interest Income,0.00107197,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,22-08-2022 05:00:10
+Interest Income,8.714e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,22-08-2022 05:00:10
+Interest Income,0.00107209,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,23-08-2022 05:00:10
+Interest Income,8.715e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,23-08-2022 05:00:10
+Interest Income,0.0010722,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,24-08-2022 05:00:10
+Interest Income,8.716e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,24-08-2022 05:00:10
+Interest Income,8.718e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,25-08-2022 05:00:11
+Interest Income,0.00107232,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,25-08-2022 05:00:11
+Interest Income,0.00107243,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,26-08-2022 05:00:10
+Interest Income,8.719e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,26-08-2022 05:00:10
+Interest Income,8.72e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,27-08-2022 05:00:10
+Interest Income,0.00107255,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,27-08-2022 05:00:10
+Interest Income,8.721e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,28-08-2022 05:00:11
+Interest Income,0.00107266,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,28-08-2022 05:00:11
+Interest Income,8.722e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,29-08-2022 05:00:11
+Interest Income,0.00107278,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,29-08-2022 05:00:11
+Interest Income,0.00107289,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,30-08-2022 05:00:10
+Interest Income,8.723e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,30-08-2022 05:00:10
+Interest Income,8.724e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,31-08-2022 05:00:07
+Interest Income,0.00107301,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,31-08-2022 05:00:07
+Interest Income,8.725e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,01-09-2022 05:00:08
+Interest Income,0.00107312,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,01-09-2022 05:00:08
+Interest Income,0.00107324,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,02-09-2022 05:00:09
+Interest Income,8.726e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,02-09-2022 05:00:09
+Interest Income,0.00107335,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,03-09-2022 05:00:08
+Interest Income,8.727e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,03-09-2022 05:00:08
+Interest Income,0.00107347,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,04-09-2022 05:00:08
+Interest Income,8.728e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,04-09-2022 05:00:08
+Interest Income,0.00107359,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,05-09-2022 05:00:08
+Interest Income,8.729e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,05-09-2022 05:00:08
+Interest Income,0.0010737,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,06-09-2022 05:00:10
+Interest Income,8.73e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,06-09-2022 05:00:10
+Interest Income,8.731e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,07-09-2022 05:00:10
+Interest Income,0.00107382,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,07-09-2022 05:00:10
+Interest Income,8.732e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,08-09-2022 05:00:10
+Interest Income,0.00107393,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,08-09-2022 05:00:10
+Interest Income,8.733e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,09-09-2022 05:00:14
+Interest Income,0.00107405,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,09-09-2022 05:00:14
+Interest Income,8.734e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,10-09-2022 05:00:09
+Interest Income,0.00107416,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,10-09-2022 05:00:09
+Interest Income,8.735e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,11-09-2022 05:00:09
+Interest Income,0.00107428,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,11-09-2022 05:00:09
+Interest Income,8.736e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,12-09-2022 05:00:09
+Interest Income,0.00107439,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,12-09-2022 05:00:09
+Interest Income,8.738e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,13-09-2022 05:00:09
+Interest Income,0.00107451,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,13-09-2022 05:00:09
+Interest Income,8.739e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,14-09-2022 05:00:10
+Interest Income,0.00107462,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,14-09-2022 05:00:10
+Interest Income,8.74e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,15-09-2022 05:00:10
+Interest Income,0.00107474,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,15-09-2022 05:00:10
+Interest Income,0.00107485,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,16-09-2022 05:00:09
+Interest Income,8.741e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,16-09-2022 05:00:09
+Interest Income,0.00107497,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,17-09-2022 05:00:10
+Interest Income,8.742e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,17-09-2022 05:00:10
+Interest Income,0.00107509,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,18-09-2022 05:00:10
+Interest Income,8.743e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,18-09-2022 05:00:10
+Interest Income,8.744e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,19-09-2022 05:00:10
+Interest Income,0.0010752,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,19-09-2022 05:00:10
+Interest Income,0.00107532,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,20-09-2022 05:00:10
+Interest Income,8.745e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,20-09-2022 05:00:10
+Deposit,1.85902339,ETHW,0.0,,0.0,-,Nexo,,approved / ETHW Airdrop,20-09-2022 16:41:04
+Interest Income,8.746e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,21-09-2022 05:00:10
+Interest Income,0.00107543,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,21-09-2022 05:00:10
+Interest Income,0.00107555,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,22-09-2022 05:00:11
+Interest Income,8.747e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,22-09-2022 05:00:11
+Interest Income,8.748e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,23-09-2022 05:00:11
+Interest Income,0.00107566,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,23-09-2022 05:00:11
+Interest Income,0.00107578,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,24-09-2022 05:00:10
+Interest Income,8.749e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,24-09-2022 05:00:10
+Interest Income,0.00107589,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,25-09-2022 05:00:10
+Interest Income,8.75e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,25-09-2022 05:00:10
+Interest Income,0.00107601,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,26-09-2022 05:00:11
+Interest Income,8.751e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,26-09-2022 05:00:11
+Interest Income,8.752e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,27-09-2022 05:00:11
+Interest Income,0.00107613,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,27-09-2022 05:00:11
+Interest Income,8.753e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,28-09-2022 05:00:11
+Interest Income,0.00107624,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,28-09-2022 05:00:11
+Interest Income,0.00107636,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,29-09-2022 05:00:11
+Interest Income,8.754e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,29-09-2022 05:00:11
+Interest Income,8.755e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,30-09-2022 05:00:11
+Interest Income,0.00107647,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,30-09-2022 05:00:11
+Interest Income,8.757e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,01-10-2022 05:00:10
+Interest Income,0.00107659,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,01-10-2022 05:00:10
+Interest Income,0.0010767,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,02-10-2022 05:00:10
+Interest Income,8.758e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,02-10-2022 05:00:10
+Interest Income,0.00107682,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,03-10-2022 05:00:10
+Interest Income,8.759e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,03-10-2022 05:00:10
+Interest Income,8.76e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,04-10-2022 05:00:10
+Interest Income,0.00107694,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,04-10-2022 05:00:10
+Interest Income,0.00107705,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,05-10-2022 05:00:10
+Interest Income,8.761e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,05-10-2022 05:00:10
+Interest Income,8.762e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,06-10-2022 05:00:10
+Interest Income,0.00107717,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,06-10-2022 05:00:10
+Interest Income,0.00107728,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,07-10-2022 05:00:10
+Interest Income,8.763e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,07-10-2022 05:00:10
+Interest Income,0.0010774,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,08-10-2022 05:00:10
+Interest Income,8.764e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,08-10-2022 05:00:10
+Interest Income,8.765e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,09-10-2022 05:00:10
+Interest Income,0.00107751,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,09-10-2022 05:00:10
+Interest Income,8.766e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,10-10-2022 05:00:10
+Interest Income,0.00107763,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,10-10-2022 05:00:10
+Interest Income,0.00107775,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,11-10-2022 05:00:10
+Interest Income,8.767e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,11-10-2022 05:00:10
+Interest Income,0.00107786,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,12-10-2022 05:00:10
+Interest Income,8.768e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,12-10-2022 05:00:10
+Interest Income,0.00107798,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,13-10-2022 05:00:10
+Interest Income,8.769e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,13-10-2022 05:00:10
+Interest Income,8.77e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,14-10-2022 05:00:10
+Interest Income,0.00107809,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,14-10-2022 05:00:10
+Interest Income,8.771e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,15-10-2022 05:00:10
+Interest Income,0.00107821,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,15-10-2022 05:00:10
+Interest Income,8.772e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,16-10-2022 05:00:10
+Interest Income,0.00107833,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,16-10-2022 05:00:10
+Interest Income,8.773e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,17-10-2022 05:00:10
+Interest Income,0.00107844,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,17-10-2022 05:00:10
+Interest Income,8.775e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,18-10-2022 05:00:10
+Interest Income,0.00107856,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,18-10-2022 05:00:10
+Interest Income,0.00107867,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,19-10-2022 05:00:16
+Interest Income,8.776e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,19-10-2022 05:00:16
+Interest Income,0.00107879,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,20-10-2022 05:00:16
+Interest Income,8.777e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,20-10-2022 05:00:16
+Interest Income,8.778e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,21-10-2022 05:00:16
+Interest Income,0.0010789,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,21-10-2022 05:00:16
+Interest Income,8.779e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,22-10-2022 05:00:17
+Interest Income,0.00107902,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,22-10-2022 05:00:17
+Interest Income,0.00107914,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,23-10-2022 05:00:16
+Interest Income,8.78e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,23-10-2022 05:00:16
+Interest Income,8.781e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,24-10-2022 05:00:16
+Interest Income,0.00107925,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,24-10-2022 05:00:16
+Interest Income,8.782e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,25-10-2022 05:00:17
+Interest Income,0.00107937,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,25-10-2022 05:00:17
+Interest Income,8.783e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,26-10-2022 05:00:17
+Interest Income,0.00107948,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,26-10-2022 05:00:17
+Interest Income,8.784e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,27-10-2022 05:00:17
+Interest Income,0.0010796,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,27-10-2022 05:00:17
+Interest Income,8.785e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,28-10-2022 05:00:18
+Interest Income,0.00107972,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,28-10-2022 05:00:18
+Interest Income,0.00107983,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,29-10-2022 05:00:18
+Interest Income,8.786e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,29-10-2022 05:00:18
+Interest Income,8.787e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,30-10-2022 06:00:16
+Interest Income,0.00107995,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,30-10-2022 06:00:16
+Interest Income,0.00108006,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,31-10-2022 06:00:16
+Interest Income,8.788e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,31-10-2022 06:00:16
+Interest Income,8.789e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,01-11-2022 06:00:16
+Interest Income,0.00108018,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,01-11-2022 06:00:16
+Interest Income,8.79e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,02-11-2022 06:00:17
+Interest Income,0.0010803,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,02-11-2022 06:00:17
+Interest Income,8.791e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,03-11-2022 06:00:18
+Interest Income,0.00108041,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,03-11-2022 06:00:18
+Interest Income,0.00108053,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,04-11-2022 06:00:18
+Interest Income,8.793e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,04-11-2022 06:00:18
+Interest Income,8.794e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,05-11-2022 06:00:19
+Interest Income,0.00108065,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,05-11-2022 06:00:19
+Interest Income,8.795e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,06-11-2022 06:00:18
+Interest Income,0.00108076,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,06-11-2022 06:00:18
+Interest Income,0.00108088,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,07-11-2022 06:00:18
+Interest Income,8.796e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,07-11-2022 06:00:18
+Interest Income,8.797e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,08-11-2022 06:00:18
+Interest Income,0.00108099,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,08-11-2022 06:00:18
+Interest Income,0.00108111,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,09-11-2022 06:00:19
+Interest Income,8.798e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,09-11-2022 06:00:19
+Interest Income,0.00108123,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,10-11-2022 06:00:20
+Interest Income,8.799e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,10-11-2022 06:00:20
+Interest Income,0.00108134,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,11-11-2022 06:00:19
+Interest Income,8.8e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,11-11-2022 06:00:19
+Interest Income,0.00108146,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,12-11-2022 06:00:19
+Interest Income,8.801e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,12-11-2022 06:00:19
+Interest Income,0.00108157,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,13-11-2022 06:00:20
+Interest Income,8.802e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,13-11-2022 06:00:20
+Interest Income,8.803e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,14-11-2022 06:00:19
+Interest Income,0.00108169,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,14-11-2022 06:00:19
+Interest Income,8.804e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,15-11-2022 06:00:19
+Interest Income,0.00108181,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,15-11-2022 06:00:19
+Interest Income,8.805e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,16-11-2022 06:00:20
+Interest Income,0.00108192,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,16-11-2022 06:00:20
+Interest Income,0.00108204,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,17-11-2022 06:00:18
+Interest Income,8.806e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,17-11-2022 06:00:18
+Interest Income,8.807e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,18-11-2022 06:00:19
+Interest Income,0.00108216,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,18-11-2022 06:00:19
+Interest Income,8.808e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,19-11-2022 06:00:18
+Interest Income,0.00108227,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,19-11-2022 06:00:18
+Interest Income,8.809e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,20-11-2022 06:00:19
+Interest Income,0.00108239,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,20-11-2022 06:00:19
+Interest Income,0.0010825,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,21-11-2022 06:00:19
+Interest Income,8.811e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,21-11-2022 06:00:19
+Interest Income,0.00108262,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,22-11-2022 06:00:17
+Interest Income,8.812e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,22-11-2022 06:00:17
+Interest Income,8.813e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,23-11-2022 06:00:20
+Interest Income,0.00108274,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,23-11-2022 06:00:20
+Interest Income,8.814e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,24-11-2022 06:00:19
+Interest Income,0.00108285,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,24-11-2022 06:00:19
+Interest Income,8.815e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,25-11-2022 06:00:19
+Interest Income,0.00108297,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,25-11-2022 06:00:19
+Interest Income,8.816e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,26-11-2022 06:00:19
+Interest Income,0.00108309,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,26-11-2022 06:00:19
+Interest Income,8.817e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,27-11-2022 06:00:18
+Interest Income,0.0010832,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,27-11-2022 06:00:18
+Interest Income,8.818e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,28-11-2022 06:00:18
+Interest Income,0.00108332,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,28-11-2022 06:00:18
+Interest Income,0.00108344,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,29-11-2022 06:00:20
+Interest Income,8.819e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,29-11-2022 06:00:20
+Interest Income,8.82e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,30-11-2022 06:00:19
+Interest Income,0.00108355,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,30-11-2022 06:00:19
+Interest Income,8.821e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,01-12-2022 06:00:20
+Interest Income,0.00108367,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,01-12-2022 06:00:20
+Interest Income,0.00108379,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,02-12-2022 06:00:17
+Interest Income,8.822e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,02-12-2022 06:00:17
+Interest Income,8.823e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,03-12-2022 06:00:18
+Interest Income,0.0010839,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,03-12-2022 06:00:18
+Interest Income,8.824e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,04-12-2022 06:00:17
+Interest Income,0.00108402,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,04-12-2022 06:00:17
+Interest Income,8.825e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,05-12-2022 06:00:18
+Interest Income,0.00108413,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,05-12-2022 06:00:18
+Interest Income,0.00108425,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,06-12-2022 06:00:20
+Interest Income,8.827e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,06-12-2022 06:00:20
+Interest Income,8.828e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,07-12-2022 06:00:09
+Interest Income,0.00108437,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,07-12-2022 06:00:09
+Interest Income,0.00108448,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,08-12-2022 06:00:10
+Interest Income,8.829e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,08-12-2022 06:00:10
+Interest Income,8.83e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,09-12-2022 06:00:10
+Interest Income,0.0010846,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,09-12-2022 06:00:10
+Interest Income,0.00108472,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,10-12-2022 06:00:12
+Interest Income,8.831e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,10-12-2022 06:00:12
+Interest Income,8.832e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,11-12-2022 06:00:12
+Interest Income,0.00108483,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,11-12-2022 06:00:12
+Interest Income,8.833e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,12-12-2022 06:00:13
+Interest Income,0.00108495,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,12-12-2022 06:00:13
+Interest Income,0.00108507,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,13-12-2022 06:00:13
+Interest Income,8.834e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,13-12-2022 06:00:13
+Interest Income,0.00108518,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,14-12-2022 06:00:13
+Interest Income,8.835e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,14-12-2022 06:00:13
+Interest Income,0.0010853,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,15-12-2022 06:00:15
+Interest Income,8.836e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,15-12-2022 06:00:15
+Interest Income,8.837e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,16-12-2022 06:00:13
+Interest Income,0.00108542,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,16-12-2022 06:00:13
+Interest Income,0.00108553,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,17-12-2022 06:00:13
+Interest Income,8.838e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,17-12-2022 06:00:13
+Interest Income,8.839e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,18-12-2022 06:00:13
+Interest Income,0.00108565,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,18-12-2022 06:00:13
+Interest Income,8.84e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,19-12-2022 06:00:15
+Interest Income,0.00108577,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,19-12-2022 06:00:15
+Interest Income,0.00108588,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,20-12-2022 06:00:14
+Interest Income,8.841e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,20-12-2022 06:00:14
+Interest Income,0.001086,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,21-12-2022 06:00:15
+Interest Income,8.842e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,21-12-2022 06:00:15
+Interest Income,0.00108612,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,22-12-2022 06:00:16
+Interest Income,8.844e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,22-12-2022 06:00:16
+Interest Income,0.00108623,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,23-12-2022 06:00:14
+Interest Income,8.845e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,23-12-2022 06:00:14
+Interest Income,0.00108635,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,24-12-2022 06:00:16
+Interest Income,8.846e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,24-12-2022 06:00:16
+Interest Income,0.00108647,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,25-12-2022 06:00:15
+Interest Income,8.847e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,25-12-2022 06:00:15
+Interest Income,0.00108658,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,26-12-2022 06:00:15
+Interest Income,8.848e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,26-12-2022 06:00:15
+Interest Income,8.849e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,27-12-2022 06:00:15
+Interest Income,0.0010867,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,27-12-2022 06:00:15
+Interest Income,0.00108682,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,28-12-2022 06:00:16
+Interest Income,8.85e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,28-12-2022 06:00:16
+Interest Income,0.00108693,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,29-12-2022 06:00:15
+Interest Income,8.851e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,29-12-2022 06:00:15
+Interest Income,8.852e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,30-12-2022 06:00:16
+Interest Income,0.00108705,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,30-12-2022 06:00:16
+Interest Income,8.853e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,31-12-2022 06:00:16
+Interest Income,0.00108717,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,31-12-2022 06:00:16
+Interest Income,8.854e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,01-01-2023 06:00:16
+Interest Income,0.00108728,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,01-01-2023 06:00:16
+Interest Income,8.855e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,02-01-2023 06:00:16
+Interest Income,0.0010874,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,02-01-2023 06:00:16
+Interest Income,0.00108752,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,03-01-2023 06:00:16
+Interest Income,8.856e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,03-01-2023 06:00:16
+Interest Income,0.00108764,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,04-01-2023 06:00:18
+Interest Income,8.857e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,04-01-2023 06:00:18
+Interest Income,8.859e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,05-01-2023 06:00:17
+Interest Income,0.00108775,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,05-01-2023 06:00:17
+Interest Income,0.00108787,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,06-01-2023 06:00:15
+Interest Income,8.86e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,06-01-2023 06:00:15
+Interest Income,8.861e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,07-01-2023 06:00:16
+Interest Income,0.00108799,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,07-01-2023 06:00:16
+Interest Income,8.862e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,08-01-2023 06:00:15
+Interest Income,0.0010881,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,08-01-2023 06:00:15
+Interest Income,8.863e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,09-01-2023 06:00:15
+Interest Income,0.00108822,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,09-01-2023 06:00:15
+Interest Income,0.00108834,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,10-01-2023 06:00:16
+Interest Income,8.864e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,10-01-2023 06:00:16
+Interest Income,0.00108845,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,11-01-2023 06:00:15
+Interest Income,8.865e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,11-01-2023 06:00:15
+Interest Income,0.00108857,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,12-01-2023 06:00:17
+Interest Income,8.866e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,12-01-2023 06:00:17
+Interest Income,8.867e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,13-01-2023 06:00:17
+Interest Income,0.00108869,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,13-01-2023 06:00:17
+Interest Income,8.868e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,14-01-2023 06:00:17
+Interest Income,0.0010888,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,14-01-2023 06:00:17
+Interest Income,0.00108892,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,15-01-2023 06:00:17
+Interest Income,8.869e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,15-01-2023 06:00:17
+Interest Income,0.00108904,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,16-01-2023 06:00:18
+Interest Income,8.87e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,16-01-2023 06:00:18
+Interest Income,8.871e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,17-01-2023 06:00:16
+Interest Income,0.00108916,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,17-01-2023 06:00:16
+Interest Income,8.872e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,18-01-2023 06:00:16
+Interest Income,0.00108927,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,18-01-2023 06:00:16
+Interest Income,8.873e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,19-01-2023 06:00:16
+Interest Income,0.00108939,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,19-01-2023 06:00:16
+Interest Income,0.00108951,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,20-01-2023 06:00:18
+Interest Income,8.875e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,20-01-2023 06:00:18
+Interest Income,0.00108962,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,21-01-2023 06:00:17
+Interest Income,8.876e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,21-01-2023 06:00:17
+Interest Income,0.00108974,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,22-01-2023 06:00:17
+Interest Income,8.877e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,22-01-2023 06:00:17
+Staking,59.35471168,NEXO,0.0,,0.0,-,Nexo,,approved / Term Deposit Interest,22-01-2023 06:02:03
+Deposit,493.04146548,NEXO,0.0,,0.0,-,Nexo,,UNSTAKING     approved / Transfer from Term Wallet to Savings Wallet,22-01-2023 06:02:03
+Withdrawal,0.0,,493.04146548,NEXO,0.0,,staking,,UNSTAKING     approved / Transfer from Term Wallet to Savings Wallet,22-01-2023 06:02:03
+Withdrawal,0.0,,493.04146548,NEXO,0.0,-,Nexo,,STAKING     approved / Transfer from Savings Wallet to Term Wallet,22-01-2023 07:00:08
+Deposit,493.04146548,NEXO,0.0,,0.0,,staking,,STAKING     approved / Transfer from Savings Wallet to Term Wallet,22-01-2023 07:00:08
+Interest Income,8.878e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,23-01-2023 06:00:18
+Interest Income,0.0074681,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,23-01-2023 06:00:18
+Interest Income,0.0074689,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,24-01-2023 06:00:18
+Interest Income,8.879e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,24-01-2023 06:00:18
+Interest Income,0.00746971,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,25-01-2023 06:00:16
+Interest Income,8.88e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,25-01-2023 06:00:16
+Interest Income,8.881e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,26-01-2023 06:00:18
+Interest Income,0.00747051,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,26-01-2023 06:00:18
+Interest Income,8.882e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,27-01-2023 06:00:17
+Interest Income,0.00747131,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,27-01-2023 06:00:17
+Interest Income,8.883e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,28-01-2023 06:00:17
+Interest Income,0.00747212,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,28-01-2023 06:00:17
+Interest Income,8.884e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,29-01-2023 06:00:17
+Interest Income,0.00747292,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,29-01-2023 06:00:17
+Interest Income,8.885e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,30-01-2023 06:00:17
+Interest Income,0.00747372,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,30-01-2023 06:00:17
+Interest Income,0.00747452,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,31-01-2023 06:00:17
+Interest Income,8.886e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,31-01-2023 06:00:17
+Interest Income,0.00747533,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,01-02-2023 06:00:17
+Interest Income,8.887e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,01-02-2023 06:00:17
+Interest Income,0.00747613,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,02-02-2023 06:00:18
+Interest Income,8.888e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,02-02-2023 06:00:18
+Interest Income,8.89e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,03-02-2023 06:00:17
+Interest Income,0.00747693,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,03-02-2023 06:00:17
+Interest Income,0.00747774,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,04-02-2023 06:00:17
+Interest Income,8.891e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,04-02-2023 06:00:17
+Interest Income,0.00747854,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,05-02-2023 06:00:15
+Interest Income,8.892e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,05-02-2023 06:00:15
+Interest Income,8.893e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,06-02-2023 06:00:15
+Interest Income,0.00747935,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,06-02-2023 06:00:15
+Interest Income,0.00748015,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,07-02-2023 06:00:16
+Interest Income,8.894e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,07-02-2023 06:00:16
+Interest Income,8.895e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,08-02-2023 06:00:16
+Interest Income,0.00748095,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,08-02-2023 06:00:16
+Interest Income,0.00748176,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,09-02-2023 06:00:16
+Interest Income,8.896e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,09-02-2023 06:00:16
+Interest Income,8.897e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,10-02-2023 06:00:16
+Interest Income,0.00748256,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,10-02-2023 06:00:16
+Interest Income,0.00748336,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,11-02-2023 06:00:16
+Interest Income,8.898e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,11-02-2023 06:00:16
+Interest Income,0.00748417,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,12-02-2023 06:00:10
+Interest Income,8.899e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,12-02-2023 06:00:10
+Interest Income,8.9e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,13-02-2023 06:00:08
+Interest Income,0.00748497,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,13-02-2023 06:00:08
+Interest Income,8.901e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,14-02-2023 06:00:09
+Interest Income,0.00748578,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,14-02-2023 06:00:09
+Interest Income,0.00748658,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,15-02-2023 06:00:10
+Interest Income,8.902e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,15-02-2023 06:00:10
+Interest Income,0.00748739,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,16-02-2023 06:00:10
+Interest Income,8.903e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,16-02-2023 06:00:10
+Interest Income,0.00748819,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,17-02-2023 06:00:09
+Interest Income,8.905e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,17-02-2023 06:00:09
+Interest Income,8.906e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,18-02-2023 06:00:10
+Interest Income,0.007489,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,18-02-2023 06:00:10
+Interest Income,8.907e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,19-02-2023 06:00:09
+Interest Income,0.0074898,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,19-02-2023 06:00:09
+Interest Income,8.908e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,20-02-2023 06:00:10
+Interest Income,0.00749061,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,20-02-2023 06:00:10
+Interest Income,0.00749141,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,21-02-2023 06:00:10
+Interest Income,8.909e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,21-02-2023 06:00:10
+Interest Income,8.91e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,22-02-2023 06:00:10
+Interest Income,0.00749222,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,22-02-2023 06:00:10
+Interest Income,0.00749302,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,23-02-2023 06:00:10
+Interest Income,8.911e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,23-02-2023 06:00:10
+Interest Income,0.00749383,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,24-02-2023 06:00:10
+Interest Income,8.912e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,24-02-2023 06:00:10
+Interest Income,8.913e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,25-02-2023 06:00:10
+Interest Income,0.00749463,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,25-02-2023 06:00:10
+Interest Income,8.914e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,26-02-2023 06:00:10
+Interest Income,0.00749544,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,26-02-2023 06:00:10
+Interest Income,0.00749624,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,27-02-2023 06:00:10
+Interest Income,8.915e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,27-02-2023 06:00:10
+Interest Income,8.916e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,28-02-2023 06:00:09
+Interest Income,0.00749705,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,28-02-2023 06:00:09
+Interest Income,8.917e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,01-03-2023 06:00:10
+Interest Income,0.00749785,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,01-03-2023 06:00:10
+Interest Income,8.919e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,02-03-2023 06:00:10
+Interest Income,0.00749866,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,02-03-2023 06:00:10
+Interest Income,0.00749946,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,03-03-2023 06:00:10
+Interest Income,8.92e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,03-03-2023 06:00:10
+Interest Income,8.921e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,04-03-2023 06:00:09
+Interest Income,0.00750027,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,04-03-2023 06:00:09
+Interest Income,8.922e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,05-03-2023 06:00:10
+Interest Income,0.00750108,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,05-03-2023 06:00:10
+Interest Income,0.00750188,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,06-03-2023 06:00:09
+Interest Income,8.923e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,06-03-2023 06:00:09
+Interest Income,0.00750269,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,07-03-2023 06:00:10
+Interest Income,8.924e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,07-03-2023 06:00:10
+Interest Income,0.00750349,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,08-03-2023 06:00:10
+Interest Income,8.925e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,08-03-2023 06:00:10
+Interest Income,0.0075043,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,09-03-2023 06:00:10
+Interest Income,8.926e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,09-03-2023 06:00:10
+Interest Income,0.00750511,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,10-03-2023 06:00:09
+Interest Income,8.927e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,10-03-2023 06:00:09
+Interest Income,8.928e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,11-03-2023 06:00:10
+Interest Income,0.00750591,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,11-03-2023 06:00:10
+Interest Income,8.929e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,12-03-2023 06:00:09
+Interest Income,0.00750672,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,12-03-2023 06:00:09
+Interest Income,8.93e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,13-03-2023 06:00:10
+Interest Income,0.00750753,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,13-03-2023 06:00:10
+Interest Income,8.931e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,14-03-2023 06:00:10
+Interest Income,0.00750833,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,14-03-2023 06:00:10
+Interest Income,0.00750914,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,15-03-2023 06:00:16
+Interest Income,8.933e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,15-03-2023 06:00:16
+Interest Income,0.00750995,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,16-03-2023 06:00:16
+Interest Income,8.934e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,16-03-2023 06:00:16
+Interest Income,8.448e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,17-03-2023 06:00:15
+Interest Income,0.00751075,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,17-03-2023 06:00:15
+Interest Income,8.449e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,18-03-2023 06:00:16
+Interest Income,0.00751156,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,18-03-2023 06:00:16
+Interest Income,0.00751237,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,19-03-2023 06:00:15
+Interest Income,8.45e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,19-03-2023 06:00:15
+Interest Income,0.00751318,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,20-03-2023 06:00:15
+Interest Income,8.451e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,20-03-2023 06:00:15
+Interest Income,0.00751398,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,21-03-2023 06:00:15
+Interest Income,8.939e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,21-03-2023 06:00:15
+Interest Income,8.453e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,22-03-2023 06:00:17
+Interest Income,0.00751479,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,22-03-2023 06:00:17
+Interest Income,8.941e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,23-03-2023 06:00:15
+Interest Income,0.0075156,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,23-03-2023 06:00:15
+Interest Income,0.00751641,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,24-03-2023 06:00:15
+Interest Income,8.942e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,24-03-2023 06:00:15
+Interest Income,8.943e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,25-03-2023 06:00:15
+Interest Income,0.00751721,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,25-03-2023 06:00:15
+Interest Income,0.00751802,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,26-03-2023 05:00:14
+Interest Income,8.944e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,26-03-2023 05:00:14
+Interest Income,0.00751883,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,27-03-2023 05:00:15
+Interest Income,8.945e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,27-03-2023 05:00:15
+Interest Income,8.946e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,28-03-2023 05:00:21
+Interest Income,0.00751964,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,28-03-2023 05:00:21
+Interest Income,8.947e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,29-03-2023 05:00:15
+Interest Income,0.00752045,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,29-03-2023 05:00:15
+Interest Income,0.00752125,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,30-03-2023 05:00:16
+Interest Income,8.948e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,30-03-2023 05:00:16
+Interest Income,8.949e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,31-03-2023 05:00:15
+Interest Income,0.00752206,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,31-03-2023 05:00:15
+Interest Income,0.00752287,NEXO,0.0,,0.0,-,Nexo,,approved / NEXO Interest Earned,01-04-2023 05:00:15
+Interest Income,8.951e-05,ETH,0.0,,0.0,-,Nexo,,approved / ETH Interest Earned,01-04-2023 05:00:15
+Withdrawal,0.0,,493.04146548,NEXO,0.0,,staking,,UNSTAKING     approved / Transfer from Term Wallet to Savings Wallet,01-04-2023 05:02:19
+Staking,10.67676944,NEXO,0.0,,0.0,-,Nexo,,approved / Term Deposit Interest,01-04-2023 05:02:19
+Deposit,493.04146548,NEXO,0.0,,0.0,-,Nexo,,UNSTAKING     approved / Transfer from Term Wallet to Savings Wallet,01-04-2023 05:02:19
+Trade,0.1,USD,0.0,-,0.0,-,Nexo,,approved / Borrow Adjustment,31-10-2023 23:00:00
+Other Fee,0.0,,1.52,USDX,0.0,-,Nexo,,approved / Interest,25-06-2024 00:00:00
+Other Fee,0.0,,1.52,USDX,0.0,-,Nexo,,approved / Interest,26-06-2024 00:00:00
+Other Fee,0.0,,1.52,USDX,0.0,-,Nexo,,approved / Interest,27-06-2024 00:00:00
+Other Fee,0.0,,1.52,USDX,0.0,-,Nexo,,approved / Interest,28-06-2024 00:00:00
+Other Fee,0.0,,1.52,USDX,0.0,-,Nexo,,approved / Interest,29-06-2024 00:00:00
+Other Fee,0.0,,1.52,USDX,0.0,-,Nexo,,approved / Interest,30-06-2024 00:00:00
+Other Fee,0.0,,1.52,USDX,0.0,-,Nexo,,approved / Interest,01-07-2024 00:00:00
+Other Fee,0.0,,1.52,USDX,0.0,-,Nexo,,approved / Interest,02-07-2024 00:00:00
+Other Fee,0.0,,1.52,USDX,0.0,-,Nexo,,approved / Interest,03-07-2024 00:00:00
+Other Fee,0.0,,1.52,USDX,0.0,-,Nexo,,approved / Interest,04-07-2024 00:00:00
+Other Fee,0.0,,1.52,USDX,0.0,-,Nexo,,approved / Interest,05-07-2024 00:00:00
+Other Fee,0.0,,1.52,USDX,0.0,-,Nexo,,approved / Interest,06-07-2024 00:00:00
+Other Fee,0.0,,1.52,USDX,0.0,-,Nexo,,approved / Interest,07-07-2024 00:00:00
+Other Fee,0.0,,1.52,USDX,0.0,-,Nexo,,approved / Interest,08-07-2024 00:00:00
+Other Fee,0.0,,1.52,USDX,0.0,-,Nexo,,approved / Interest,09-07-2024 00:00:00
+Other Fee,0.0,,1.52,USDX,0.0,-,Nexo,,approved / Interest,10-07-2024 00:00:00
+Other Fee,0.0,,1.53,USDX,0.0,-,Nexo,,approved / Interest,11-07-2024 00:00:00
+Other Fee,0.0,,1.53,USDX,0.0,-,Nexo,,approved / Interest,12-07-2024 00:00:00
+Other Fee,0.0,,1.53,USDX,0.0,-,Nexo,,approved / Interest,13-07-2024 00:00:00
+Other Fee,0.0,,1.53,USDX,0.0,-,Nexo,,approved / Interest,14-07-2024 00:00:00
+Other Fee,0.0,,1.53,USDX,0.0,-,Nexo,,approved / Interest,15-07-2024 00:00:00
+Other Fee,0.0,,1.53,USDX,0.0,-,Nexo,,approved / Interest,16-07-2024 00:00:00
+Other Fee,0.0,,1.53,USDX,0.0,-,Nexo,,approved / Interest,17-07-2024 00:00:00
+Other Fee,0.0,,1.53,USDX,0.0,-,Nexo,,approved / Interest,18-07-2024 00:00:00
+Other Fee,0.0,,1.53,USDX,0.0,-,Nexo,,approved / Interest,19-07-2024 00:00:00
+Other Fee,0.0,,1.53,USDX,0.0,-,Nexo,,approved / Interest,20-07-2024 00:00:00
+Other Fee,0.0,,1.53,USDX,0.0,-,Nexo,,approved / Interest,21-07-2024 00:00:00
+Other Fee,0.0,,1.53,USDX,0.0,-,Nexo,,approved / Interest,22-07-2024 00:00:00
+Other Fee,0.0,,1.53,USDX,0.0,-,Nexo,,approved / Interest,23-07-2024 00:00:00
+Other Fee,0.0,,1.53,USDX,0.0,-,Nexo,,approved / Interest,24-07-2024 00:00:00
+Other Fee,0.0,,1.53,USDX,0.0,-,Nexo,,approved / Interest,25-07-2024 00:00:00
+Other Fee,0.0,,1.53,USDX,0.0,-,Nexo,,approved / Interest,26-07-2024 00:00:00
+Other Fee,0.0,,1.54,USDX,0.0,-,Nexo,,approved / Interest,27-07-2024 00:00:00
+Other Fee,0.0,,1.54,USDX,0.0,-,Nexo,,approved / Interest,28-07-2024 00:00:00
+Other Fee,0.0,,1.54,USDX,0.0,-,Nexo,,approved / Interest,29-07-2024 00:00:00
+Other Fee,0.0,,1.54,USDX,0.0,-,Nexo,,approved / Interest,30-07-2024 00:00:00
+Other Fee,0.0,,1.54,USDX,0.0,-,Nexo,,approved / Interest,31-07-2024 00:00:00
+Other Fee,0.0,,1.54,USDX,0.0,-,Nexo,,approved / Interest,01-08-2024 00:00:00
+Other Fee,0.0,,1.54,USDX,0.0,-,Nexo,,approved / Interest,02-08-2024 00:00:00
+Other Fee,0.0,,1.54,USDX,0.0,-,Nexo,,approved / Interest,03-08-2024 00:00:00
+Other Fee,0.0,,1.54,USDX,0.0,-,Nexo,,approved / Interest,04-08-2024 00:00:00
+Other Fee,0.0,,1.54,USDX,0.0,-,Nexo,,approved / Interest,05-08-2024 00:00:00
+Other Fee,0.0,,1.54,USDX,0.0,-,Nexo,,approved / Interest,06-08-2024 00:00:00
+Other Fee,0.0,,1.54,USDX,0.0,-,Nexo,,approved / Interest,07-08-2024 00:00:00
+Other Fee,0.0,,1.54,USDX,0.0,-,Nexo,,approved / Interest,08-08-2024 00:00:00
+Other Fee,0.0,,1.54,USDX,0.0,-,Nexo,,approved / Interest,09-08-2024 00:00:00
+Other Fee,0.0,,1.54,USDX,0.0,-,Nexo,,approved / Interest,10-08-2024 00:00:00
+Other Fee,0.0,,1.54,USDX,0.0,-,Nexo,,approved / Interest,11-08-2024 00:00:00
+Other Fee,0.0,,1.55,USDX,0.0,-,Nexo,,approved / Interest,12-08-2024 00:00:00
+Other Fee,0.0,,1.55,USDX,0.0,-,Nexo,,approved / Interest,13-08-2024 00:00:00
+Other Fee,0.0,,1.55,USDX,0.0,-,Nexo,,approved / Interest,14-08-2024 00:00:00
+Other Fee,0.0,,1.55,USDX,0.0,-,Nexo,,approved / Interest,15-08-2024 00:00:00
+Other Fee,0.0,,1.55,USDX,0.0,-,Nexo,,approved / Interest,16-08-2024 00:00:00
+Other Fee,0.0,,1.55,USDX,0.0,-,Nexo,,approved / Interest,17-08-2024 00:00:00
+Other Fee,0.0,,1.55,USDX,0.0,-,Nexo,,approved / Interest,18-08-2024 00:00:00
+Other Fee,0.0,,1.55,USDX,0.0,-,Nexo,,approved / Interest,19-08-2024 00:00:00
+Other Fee,0.0,,1.55,USDX,0.0,-,Nexo,,approved / Interest,20-08-2024 00:00:00
+Other Fee,0.0,,1.55,USDX,0.0,-,Nexo,,approved / Interest,21-08-2024 00:00:00
+Other Fee,0.0,,1.55,USDX,0.0,-,Nexo,,approved / Interest,22-08-2024 00:00:00
+Other Fee,0.0,,1.55,USDX,0.0,-,Nexo,,approved / Interest,23-08-2024 00:00:00
+Other Fee,0.0,,1.55,USDX,0.0,-,Nexo,,approved / Interest,24-08-2024 00:00:00
+Other Fee,0.0,,1.55,USDX,0.0,-,Nexo,,approved / Interest,25-08-2024 00:00:00
+Other Fee,0.0,,1.55,USDX,0.0,-,Nexo,,approved / Interest,26-08-2024 00:00:00
+Other Fee,0.0,,1.56,USDX,0.0,-,Nexo,,approved / Interest,27-08-2024 00:00:00
+Other Fee,0.0,,1.56,USDX,0.0,-,Nexo,,approved / Interest,28-08-2024 00:00:00
+Other Fee,0.0,,1.56,USDX,0.0,-,Nexo,,approved / Interest,29-08-2024 00:00:00
+Other Fee,0.0,,1.56,USDX,0.0,-,Nexo,,approved / Interest,30-08-2024 00:00:00
+Other Fee,0.0,,1.56,USDX,0.0,-,Nexo,,approved / Interest,31-08-2024 00:00:00
+Other Fee,0.0,,1.56,USDX,0.0,-,Nexo,,approved / Interest,01-09-2024 00:00:00
+Other Fee,0.0,,1.56,USDX,0.0,-,Nexo,,approved / Interest,02-09-2024 00:00:00
+Other Fee,0.0,,1.56,USDX,0.0,-,Nexo,,approved / Interest,03-09-2024 00:00:00
+Other Fee,0.0,,1.56,USDX,0.0,-,Nexo,,approved / Interest,04-09-2024 00:00:00
+Other Fee,0.0,,1.56,USDX,0.0,-,Nexo,,approved / Interest,05-09-2024 00:00:00
+Other Fee,0.0,,1.56,USDX,0.0,-,Nexo,,approved / Interest,06-09-2024 00:00:00
+Other Fee,0.0,,1.56,USDX,0.0,-,Nexo,,approved / Interest,07-09-2024 00:00:00
+Other Fee,0.0,,1.56,USDX,0.0,-,Nexo,,approved / Interest,08-09-2024 00:00:00
+Other Fee,0.0,,1.56,USDX,0.0,-,Nexo,,approved / Interest,09-09-2024 00:00:00
+Other Fee,0.0,,1.56,USDX,0.0,-,Nexo,,approved / Interest,10-09-2024 00:00:00
+Other Fee,0.0,,1.56,USDX,0.0,-,Nexo,,approved / Interest,11-09-2024 00:00:00
+Other Fee,0.0,,1.57,USDX,0.0,-,Nexo,,approved / Interest,12-09-2024 00:00:00
+Other Fee,0.0,,1.57,USDX,0.0,-,Nexo,,approved / Interest,13-09-2024 00:00:00
+Other Fee,0.0,,1.57,USDX,0.0,-,Nexo,,approved / Interest,14-09-2024 00:00:00
+Other Fee,0.0,,1.57,USDX,0.0,-,Nexo,,approved / Interest,15-09-2024 00:00:00
+Other Fee,0.0,,1.57,USDX,0.0,-,Nexo,,approved / Interest,16-09-2024 00:00:00
+Other Fee,0.0,,1.57,USDX,0.0,-,Nexo,,approved / Interest,17-09-2024 00:00:00
+Other Fee,0.0,,1.57,USDX,0.0,-,Nexo,,approved / Interest,18-09-2024 00:00:00
+Other Fee,0.0,,1.57,USDX,0.0,-,Nexo,,approved / Interest,19-09-2024 00:00:00
+Other Fee,0.0,,1.57,USDX,0.0,-,Nexo,,approved / Interest,20-09-2024 00:00:00
+Other Fee,0.0,,1.57,USDX,0.0,-,Nexo,,approved / Interest,21-09-2024 00:00:00
+Other Fee,0.0,,1.57,USDX,0.0,-,Nexo,,approved / Interest,22-09-2024 00:00:00
+Other Fee,0.0,,1.57,USDX,0.0,-,Nexo,,approved / Interest,23-09-2024 00:00:00
+Other Fee,0.0,,1.57,USDX,0.0,-,Nexo,,approved / Interest,24-09-2024 00:00:00
+Other Fee,0.0,,1.57,USDX,0.0,-,Nexo,,approved / Interest,25-09-2024 00:00:00
+Other Fee,0.0,,1.57,USDX,0.0,-,Nexo,,approved / Interest,26-09-2024 00:00:00
+Other Fee,0.0,,1.58,USDX,0.0,-,Nexo,,approved / Interest,27-09-2024 00:00:00
+Other Fee,0.0,,1.58,USDX,0.0,-,Nexo,,approved / Interest,28-09-2024 00:00:00
+Other Fee,0.0,,1.58,USDX,0.0,-,Nexo,,approved / Interest,29-09-2024 00:00:00
+Other Fee,0.0,,1.58,USDX,0.0,-,Nexo,,approved / Interest,30-09-2024 00:00:00
+Other Fee,0.0,,1.58,USDX,0.0,-,Nexo,,approved / Interest,01-10-2024 00:00:00
+Other Fee,0.0,,1.58,USDX,0.0,-,Nexo,,approved / Interest,02-10-2024 00:00:00
+Other Fee,0.0,,1.58,USDX,0.0,-,Nexo,,approved / Interest,03-10-2024 00:00:00
+Other Fee,0.0,,1.58,USDX,0.0,-,Nexo,,approved / Interest,04-10-2024 00:00:00
+Other Fee,0.0,,1.58,USDX,0.0,-,Nexo,,approved / Interest,05-10-2024 00:00:00
+Other Fee,0.0,,1.58,USDX,0.0,-,Nexo,,approved / Interest,06-10-2024 00:00:00
+Other Fee,0.0,,1.58,USDX,0.0,-,Nexo,,approved / Interest,07-10-2024 00:00:00
+Other Fee,0.0,,1.58,USDX,0.0,-,Nexo,,approved / Interest,08-10-2024 00:00:00
+Other Fee,0.0,,1.58,USDX,0.0,-,Nexo,,approved / Interest,09-10-2024 00:00:00
+Other Fee,0.0,,1.58,USDX,0.0,-,Nexo,,approved / Interest,10-10-2024 00:00:00
+Other Fee,0.0,,1.58,USDX,0.0,-,Nexo,,approved / Interest,11-10-2024 00:00:00
+Other Fee,0.0,,1.59,USDX,0.0,-,Nexo,,approved / Interest,12-10-2024 00:00:00
+Other Fee,0.0,,1.59,USDX,0.0,-,Nexo,,approved / Interest,13-10-2024 00:00:00
+Other Fee,0.0,,1.59,USDX,0.0,-,Nexo,,approved / Interest,14-10-2024 00:00:00
+Other Fee,0.0,,1.59,USDX,0.0,-,Nexo,,approved / Interest,15-10-2024 00:00:00
+Other Fee,0.0,,1.59,USDX,0.0,-,Nexo,,approved / Interest,16-10-2024 00:00:00
+Other Fee,0.0,,1.59,USDX,0.0,-,Nexo,,approved / Interest,17-10-2024 00:00:00
+Other Fee,0.0,,1.59,USDX,0.0,-,Nexo,,approved / Interest,18-10-2024 00:00:00
+Other Fee,0.0,,1.59,USDX,0.0,-,Nexo,,approved / Interest,19-10-2024 00:00:00
+Other Fee,0.0,,1.59,USDX,0.0,-,Nexo,,approved / Interest,20-10-2024 00:00:00
+Other Fee,0.0,,1.59,USDX,0.0,-,Nexo,,approved / Interest,21-10-2024 00:00:00
+Other Fee,0.0,,1.59,USDX,0.0,-,Nexo,,approved / Interest,22-10-2024 00:00:00
+Other Fee,0.0,,1.59,USDX,0.0,-,Nexo,,approved / Interest,23-10-2024 00:00:00
+Other Fee,0.0,,1.59,USDX,0.0,-,Nexo,,approved / Interest,24-10-2024 00:00:00
+Other Fee,0.0,,1.59,USDX,0.0,-,Nexo,,approved / Interest,25-10-2024 00:00:00
+Other Fee,0.0,,1.59,USDX,0.0,-,Nexo,,approved / Interest,26-10-2024 00:00:00
+Other Fee,0.0,,1.59,USDX,0.0,-,Nexo,,approved / Interest,27-10-2024 00:00:00
+Other Fee,0.0,,1.6,USDX,0.0,-,Nexo,,approved / Interest,28-10-2024 00:00:00
+Other Fee,0.0,,1.6,USDX,0.0,-,Nexo,,approved / Interest,29-10-2024 00:00:00
+Other Fee,0.0,,1.6,USDX,0.0,-,Nexo,,approved / Interest,30-10-2024 00:00:00
+Other Fee,0.0,,1.6,USDX,0.0,-,Nexo,,approved / Interest,31-10-2024 00:00:00
+Other Fee,0.0,,1.6,USDX,0.0,-,Nexo,,approved / Interest,01-11-2024 00:00:00
+Other Fee,0.0,,1.6,USDX,0.0,-,Nexo,,approved / Interest,02-11-2024 00:00:00
+Other Fee,0.0,,1.6,USDX,0.0,-,Nexo,,approved / Interest,03-11-2024 00:00:00
+Other Fee,0.0,,1.6,USDX,0.0,-,Nexo,,approved / Interest,04-11-2024 00:00:00
+Other Fee,0.0,,1.6,USDX,0.0,-,Nexo,,approved / Interest,05-11-2024 00:00:00
+Other Fee,0.0,,1.6,USDX,0.0,-,Nexo,,approved / Interest,06-11-2024 00:00:00
+Other Fee,0.0,,1.6,USDX,0.0,-,Nexo,,approved / Interest,07-11-2024 00:00:00
+Other Fee,0.0,,1.6,USDX,0.0,-,Nexo,,approved / Interest,08-11-2024 00:00:00
+Other Fee,0.0,,1.6,USDX,0.0,-,Nexo,,approved / Interest,09-11-2024 00:00:00
+Other Fee,0.0,,1.6,USDX,0.0,-,Nexo,,approved / Interest,10-11-2024 00:00:00
+Other Fee,0.0,,1.6,USDX,0.0,-,Nexo,,approved / Interest,11-11-2024 00:00:00
+Other Fee,0.0,,1.61,USDX,0.0,-,Nexo,,approved / Interest,12-11-2024 00:00:00
+Other Fee,0.0,,1.61,USDX,0.0,-,Nexo,,approved / Interest,13-11-2024 00:00:00
+Other Fee,0.0,,1.61,USDX,0.0,-,Nexo,,approved / Interest,14-11-2024 00:00:00
+Other Fee,0.0,,1.61,USDX,0.0,-,Nexo,,approved / Interest,15-11-2024 00:00:00
+Other Fee,0.0,,1.61,USDX,0.0,-,Nexo,,approved / Interest,16-11-2024 00:00:00
+Other Fee,0.0,,1.61,USDX,0.0,-,Nexo,,approved / Interest,17-11-2024 00:00:00
+Other Fee,0.0,,1.61,USDX,0.0,-,Nexo,,approved / Interest,18-11-2024 00:00:00
+Other Fee,0.0,,1.61,USDX,0.0,-,Nexo,,approved / Interest,19-11-2024 00:00:00
+Other Fee,0.0,,1.61,USDX,0.0,-,Nexo,,approved / Interest,20-11-2024 00:00:00
+Other Fee,0.0,,1.61,USDX,0.0,-,Nexo,,approved / Interest,21-11-2024 00:00:00
+Other Fee,0.0,,1.61,USDX,0.0,-,Nexo,,approved / Interest,22-11-2024 00:00:00
+Other Fee,0.0,,1.61,USDX,0.0,-,Nexo,,approved / Interest,23-11-2024 00:00:00
+Other Fee,0.0,,1.61,USDX,0.0,-,Nexo,,approved / Interest,24-11-2024 00:00:00
+Other Fee,0.0,,1.61,USDX,0.0,-,Nexo,,approved / Interest,25-11-2024 00:00:00
+Other Fee,0.0,,1.61,USDX,0.0,-,Nexo,,approved / Interest,26-11-2024 00:00:00
+Other Fee,0.0,,1.62,USDX,0.0,-,Nexo,,approved / Interest,27-11-2024 00:00:00
+Other Fee,0.0,,1.62,USDX,0.0,-,Nexo,,approved / Interest,28-11-2024 00:00:00
+Other Fee,0.0,,1.62,USDX,0.0,-,Nexo,,approved / Interest,29-11-2024 00:00:00
+Other Fee,0.0,,1.62,USDX,0.0,-,Nexo,,approved / Interest,30-11-2024 00:00:00
+Other Fee,0.0,,1.62,USDX,0.0,-,Nexo,,approved / Interest,01-12-2024 00:00:00
+Other Fee,0.0,,1.62,USDX,0.0,-,Nexo,,approved / Interest,02-12-2024 00:00:00
+Other Fee,0.0,,1.62,USDX,0.0,-,Nexo,,approved / Interest,03-12-2024 00:00:00
+Other Fee,0.0,,1.62,USDX,0.0,-,Nexo,,approved / Interest,04-12-2024 00:00:00
+Other Fee,0.0,,1.62,USDX,0.0,-,Nexo,,approved / Interest,05-12-2024 00:00:00
+Other Fee,0.0,,1.62,USDX,0.0,-,Nexo,,approved / Interest,06-12-2024 00:00:00
+Other Fee,0.0,,1.62,USDX,0.0,-,Nexo,,approved / Interest,07-12-2024 00:00:00
+Other Fee,0.0,,1.62,USDX,0.0,-,Nexo,,approved / Interest,08-12-2024 00:00:00
+Other Fee,0.0,,1.62,USDX,0.0,-,Nexo,,approved / Interest,09-12-2024 00:00:00
+Other Fee,0.0,,1.62,USDX,0.0,-,Nexo,,approved / Interest,10-12-2024 00:00:00
+Other Fee,0.0,,1.62,USDX,0.0,-,Nexo,,approved / Interest,11-12-2024 00:00:00
+Other Fee,0.0,,1.63,USDX,0.0,-,Nexo,,approved / Interest,12-12-2024 00:00:00
+Other Fee,0.0,,1.63,USDX,0.0,-,Nexo,,approved / Interest,13-12-2024 00:00:00
+Other Fee,0.0,,1.63,USDX,0.0,-,Nexo,,approved / Interest,14-12-2024 00:00:00
+Other Fee,0.0,,1.63,USDX,0.0,-,Nexo,,approved / Interest,15-12-2024 00:00:00
+Other Fee,0.0,,1.63,USDX,0.0,-,Nexo,,approved / Interest,16-12-2024 00:00:00
+Other Fee,0.0,,1.63,USDX,0.0,-,Nexo,,approved / Interest,17-12-2024 00:00:00
+Other Fee,0.0,,1.63,USDX,0.0,-,Nexo,,approved / Interest,18-12-2024 00:00:00
+Other Fee,0.0,,1.63,USDX,0.0,-,Nexo,,approved / Interest,19-12-2024 00:00:00
+Other Fee,0.0,,1.63,USDX,0.0,-,Nexo,,approved / Interest,20-12-2024 00:00:00
+Other Fee,0.0,,1.63,USDX,0.0,-,Nexo,,approved / Interest,21-12-2024 00:00:00
+Other Fee,0.0,,1.63,USDX,0.0,-,Nexo,,approved / Interest,22-12-2024 00:00:00
+Other Fee,0.0,,1.63,USDX,0.0,-,Nexo,,approved / Interest,23-12-2024 00:00:00
+Other Fee,0.0,,1.63,USDX,0.0,-,Nexo,,approved / Interest,24-12-2024 00:00:00
+Other Fee,0.0,,1.63,USDX,0.0,-,Nexo,,approved / Interest,25-12-2024 00:00:00
+Other Fee,0.0,,1.64,USDX,0.0,-,Nexo,,approved / Interest,26-12-2024 00:00:00
+Other Fee,0.0,,1.64,USDX,0.0,-,Nexo,,approved / Interest,27-12-2024 00:00:00
+Other Fee,0.0,,1.64,USDX,0.0,-,Nexo,,approved / Interest,28-12-2024 00:00:00
+Other Fee,0.0,,1.64,USDX,0.0,-,Nexo,,approved / Interest,29-12-2024 00:00:00
+Other Fee,0.0,,1.64,USDX,0.0,-,Nexo,,approved / Interest,30-12-2024 00:00:00
+Other Fee,0.0,,1.64,USDX,0.0,-,Nexo,,approved / Interest,31-12-2024 00:00:00
+Other Fee,0.0,,1.64,USDX,0.0,-,Nexo,,approved / Interest,01-01-2025 00:00:00
+Other Fee,0.0,,1.64,USDX,0.0,-,Nexo,,approved / Interest,02-01-2025 00:00:00
+Other Fee,0.0,,1.64,USDX,0.0,-,Nexo,,approved / Interest,03-01-2025 00:00:00
+Other Fee,0.0,,1.64,USDX,0.0,-,Nexo,,approved / Interest,04-01-2025 00:00:00
+Other Fee,0.0,,1.64,USDX,0.0,-,Nexo,,approved / Interest,05-01-2025 00:00:00
+Other Fee,0.0,,1.64,USDX,0.0,-,Nexo,,approved / Interest,06-01-2025 00:00:00
+Other Fee,0.0,,1.64,USDX,0.0,-,Nexo,,approved / Interest,07-01-2025 00:00:00
+Other Fee,0.0,,1.64,USDX,0.0,-,Nexo,,approved / Interest,08-01-2025 00:00:00
+Other Fee,0.0,,1.64,USDX,0.0,-,Nexo,,approved / Interest,09-01-2025 00:00:00
+Other Fee,0.0,,1.65,USDX,0.0,-,Nexo,,approved / Interest,10-01-2025 00:00:00
+Other Fee,0.0,,1.65,USDX,0.0,-,Nexo,,approved / Interest,11-01-2025 00:00:00
+Other Fee,0.0,,1.65,USDX,0.0,-,Nexo,,approved / Interest,12-01-2025 00:00:00
+Other Fee,0.0,,1.65,USDX,0.0,-,Nexo,,approved / Interest,13-01-2025 00:00:00
+Other Fee,0.0,,1.65,USDX,0.0,-,Nexo,,approved / Interest,14-01-2025 00:00:00
+Other Fee,0.0,,1.65,USDX,0.0,-,Nexo,,approved / Interest,15-01-2025 00:00:00
+Other Fee,0.0,,1.65,USDX,0.0,-,Nexo,,approved / Interest,16-01-2025 00:00:00
+Other Fee,0.0,,1.65,USDX,0.0,-,Nexo,,approved / Interest,17-01-2025 00:00:00
+Other Fee,0.0,,1.65,USDX,0.0,-,Nexo,,approved / Interest,18-01-2025 00:00:00
+Other Fee,0.0,,1.65,USDX,0.0,-,Nexo,,approved / Interest,19-01-2025 00:00:00
+Other Fee,0.0,,1.65,USDX,0.0,-,Nexo,,approved / Interest,20-01-2025 00:00:00
+Other Fee,0.0,,1.65,USDX,0.0,-,Nexo,,approved / Interest,21-01-2025 00:00:00
+Other Fee,0.0,,1.65,USDX,0.0,-,Nexo,,approved / Interest,22-01-2025 00:00:00
+Other Fee,0.0,,1.65,USDX,0.0,-,Nexo,,approved / Interest,23-01-2025 00:00:00
+Other Fee,0.0,,1.65,USDX,0.0,-,Nexo,,approved / Interest,24-01-2025 00:00:00
+Other Fee,0.0,,1.66,USDX,0.0,-,Nexo,,approved / Interest,25-01-2025 00:00:00
+Other Fee,0.0,,1.66,USDX,0.0,-,Nexo,,approved / Interest,26-01-2025 00:00:00
+Other Fee,0.0,,1.66,USDX,0.0,-,Nexo,,approved / Interest,27-01-2025 00:00:00
+Other Fee,0.0,,1.66,USDX,0.0,-,Nexo,,approved / Interest,28-01-2025 00:00:00
+Other Fee,0.0,,1.66,USDX,0.0,-,Nexo,,approved / Interest,29-01-2025 00:00:00
+Other Fee,0.0,,1.66,USDX,0.0,-,Nexo,,approved / Interest,30-01-2025 00:00:00
+Other Fee,0.0,,1.66,USDX,0.0,-,Nexo,,approved / Interest,31-01-2025 00:00:00
+Other Fee,0.0,,1.66,USDX,0.0,-,Nexo,,approved / Interest,01-02-2025 00:00:00
+Other Fee,0.0,,1.66,USDX,0.0,-,Nexo,,approved / Interest,02-02-2025 00:00:00
+Other Fee,0.0,,1.66,USDX,0.0,-,Nexo,,approved / Interest,03-02-2025 00:00:00
+Other Fee,0.0,,1.66,USDX,0.0,-,Nexo,,approved / Interest,04-02-2025 00:00:00
+Other Fee,0.0,,1.66,USDX,0.0,-,Nexo,,approved / Interest,05-02-2025 00:00:00
+Other Fee,0.0,,1.66,USDX,0.0,-,Nexo,,approved / Interest,06-02-2025 00:00:00
+Other Fee,0.0,,1.66,USDX,0.0,-,Nexo,,approved / Interest,07-02-2025 00:00:00
+Other Fee,0.0,,1.67,USDX,0.0,-,Nexo,,approved / Interest,08-02-2025 00:00:00
+Other Fee,0.0,,1.67,USDX,0.0,-,Nexo,,approved / Interest,09-02-2025 00:00:00
+Other Fee,0.0,,1.67,USDX,0.0,-,Nexo,,approved / Interest,10-02-2025 00:00:00
+Other Fee,0.0,,1.67,USDX,0.0,-,Nexo,,approved / Interest,11-02-2025 00:00:00
+Other Fee,0.0,,1.67,USDX,0.0,-,Nexo,,approved / Interest,12-02-2025 00:00:00
+Other Fee,0.0,,1.67,USDX,0.0,-,Nexo,,approved / Interest,13-02-2025 00:00:00
+Other Fee,0.0,,1.67,USDX,0.0,-,Nexo,,approved / Interest,14-02-2025 00:00:00
+Other Fee,0.0,,1.67,USDX,0.0,-,Nexo,,approved / Interest,15-02-2025 00:00:00
+Other Fee,0.0,,1.67,USDX,0.0,-,Nexo,,approved / Interest,16-02-2025 00:00:00
+Other Fee,0.0,,1.67,USDX,0.0,-,Nexo,,approved / Interest,17-02-2025 00:00:00
+Other Fee,0.0,,1.67,USDX,0.0,-,Nexo,,approved / Interest,18-02-2025 00:00:00
+Other Fee,0.0,,1.67,USDX,0.0,-,Nexo,,approved / Interest,19-02-2025 00:00:00
+Other Fee,0.0,,1.67,USDX,0.0,-,Nexo,,approved / Interest,20-02-2025 00:00:00
+Other Fee,0.0,,1.67,USDX,0.0,-,Nexo,,approved / Interest,21-02-2025 00:00:00
+Other Fee,0.0,,1.67,USDX,0.0,-,Nexo,,approved / Interest,22-02-2025 00:00:00
+Other Fee,0.0,,1.68,USDX,0.0,-,Nexo,,approved / Interest,23-02-2025 00:00:00
+Other Fee,0.0,,1.68,USDX,0.0,-,Nexo,,approved / Interest,24-02-2025 00:00:00
+Other Fee,0.0,,1.68,USDX,0.0,-,Nexo,,approved / Interest,25-02-2025 00:00:00
+Other Fee,0.0,,1.68,USDX,0.0,-,Nexo,,approved / Interest,26-02-2025 00:00:00
+Other Fee,0.0,,1.68,USDX,0.0,-,Nexo,,approved / Interest,27-02-2025 00:00:00
+Other Fee,0.0,,1.68,USDX,0.0,-,Nexo,,approved / Interest,28-02-2025 00:00:00
+Other Fee,0.0,,1.68,USDX,0.0,-,Nexo,,approved / Interest,01-03-2025 00:00:00
+Other Fee,0.0,,1.68,USDX,0.0,-,Nexo,,approved / Interest,02-03-2025 00:00:00
+Other Fee,0.0,,1.68,USDX,0.0,-,Nexo,,approved / Interest,03-03-2025 00:00:00
+Other Fee,0.0,,1.68,USDX,0.0,-,Nexo,,approved / Interest,04-03-2025 00:00:00
+Other Fee,0.0,,1.68,USDX,0.0,-,Nexo,,approved / Interest,05-03-2025 00:00:00
+Other Fee,0.0,,1.68,USDX,0.0,-,Nexo,,approved / Interest,06-03-2025 00:00:00
+Other Fee,0.0,,1.68,USDX,0.0,-,Nexo,,approved / Interest,07-03-2025 00:00:00
+Other Fee,0.0,,1.68,USDX,0.0,-,Nexo,,approved / Interest,08-03-2025 00:00:00
+Other Fee,0.0,,1.69,USDX,0.0,-,Nexo,,approved / Interest,09-03-2025 00:00:00
+Other Fee,0.0,,1.69,USDX,0.0,-,Nexo,,approved / Interest,10-03-2025 00:00:00
+Other Fee,0.0,,1.69,USDX,0.0,-,Nexo,,approved / Interest,11-03-2025 00:00:00
+Other Fee,0.0,,1.69,USDX,0.0,-,Nexo,,approved / Interest,12-03-2025 00:00:00
+Other Fee,0.0,,1.69,USDX,0.0,-,Nexo,,approved / Interest,13-03-2025 00:00:00
+Other Fee,0.0,,1.69,USDX,0.0,-,Nexo,,approved / Interest,14-03-2025 00:00:00
+Other Fee,0.0,,1.69,USDX,0.0,-,Nexo,,approved / Interest,15-03-2025 00:00:00
+Other Fee,0.0,,1.69,USDX,0.0,-,Nexo,,approved / Interest,16-03-2025 00:00:00
+Other Fee,0.0,,1.69,USDX,0.0,-,Nexo,,approved / Interest,17-03-2025 00:00:00
+Other Fee,0.0,,1.69,USDX,0.0,-,Nexo,,approved / Interest,18-03-2025 00:00:00
+Other Fee,0.0,,1.69,USDX,0.0,-,Nexo,,approved / Interest,19-03-2025 00:00:00
+Other Fee,0.0,,1.69,USDX,0.0,-,Nexo,,approved / Interest,20-03-2025 00:00:00
+Other Fee,0.0,,1.69,USDX,0.0,-,Nexo,,approved / Interest,21-03-2025 00:00:00
+Other Fee,0.0,,1.69,USDX,0.0,-,Nexo,,approved / Interest,22-03-2025 00:00:00
+Other Fee,0.0,,1.7,USDX,0.0,-,Nexo,,approved / Interest,23-03-2025 00:00:00
+Other Fee,0.0,,1.7,USDX,0.0,-,Nexo,,approved / Interest,24-03-2025 00:00:00
+Other Fee,0.0,,1.7,USDX,0.0,-,Nexo,,approved / Interest,25-03-2025 00:00:00
+Other Fee,0.0,,1.7,USDX,0.0,-,Nexo,,approved / Interest,26-03-2025 00:00:00
+Other Fee,0.0,,1.7,USDX,0.0,-,Nexo,,approved / Interest,27-03-2025 00:00:00
+Other Fee,0.0,,1.7,USDX,0.0,-,Nexo,,approved / Interest,28-03-2025 00:00:00
+Other Fee,0.0,,1.7,USDX,0.0,-,Nexo,,approved / Interest,29-03-2025 00:00:00
+Other Fee,0.0,,1.7,USDX,0.0,-,Nexo,,approved / Interest,30-03-2025 00:00:00
+Other Fee,0.0,,1.7,USDX,0.0,-,Nexo,,approved / Interest,31-03-2025 00:00:00
+Other Fee,0.0,,1.7,USDX,0.0,-,Nexo,,approved / Interest,01-04-2025 00:00:00
+Other Fee,0.0,,1.7,USDX,0.0,-,Nexo,,approved / Interest,02-04-2025 00:00:00
+Other Fee,0.0,,1.7,USDX,0.0,-,Nexo,,approved / Interest,03-04-2025 00:00:00
+Other Fee,0.0,,1.7,USDX,0.0,-,Nexo,,approved / Interest,04-04-2025 00:00:00
+Other Fee,0.0,,1.7,USDX,0.0,-,Nexo,,approved / Interest,05-04-2025 00:00:00
+Other Fee,0.0,,1.7,USDX,0.0,-,Nexo,,approved / Interest,06-04-2025 00:00:00
+Other Fee,0.0,,1.71,USDX,0.0,-,Nexo,,approved / Interest,07-04-2025 00:00:00
+Other Fee,0.0,,1.71,USDX,0.0,-,Nexo,,approved / Interest,08-04-2025 00:00:00
+Other Fee,0.0,,1.71,USDX,0.0,-,Nexo,,approved / Interest,09-04-2025 00:00:00
+Other Fee,0.0,,1.71,USDX,0.0,-,Nexo,,approved / Interest,10-04-2025 00:00:00
+Other Fee,0.0,,1.71,USDX,0.0,-,Nexo,,approved / Interest,11-04-2025 00:00:00
+Other Fee,0.0,,1.71,USDX,0.0,-,Nexo,,approved / Interest,12-04-2025 00:00:00
+Other Fee,0.0,,1.71,USDX,0.0,-,Nexo,,approved / Interest,13-04-2025 00:00:00
+Other Fee,0.0,,1.71,USDX,0.0,-,Nexo,,approved / Interest,14-04-2025 00:00:00
+Other Fee,0.0,,1.71,USDX,0.0,-,Nexo,,approved / Interest,15-04-2025 00:00:00
+Other Fee,0.0,,1.71,USDX,0.0,-,Nexo,,approved / Interest,16-04-2025 00:00:00
+Other Fee,0.0,,2.06,USDX,0.0,-,Nexo,,approved / Interest,17-04-2025 00:00:00
+Other Fee,0.0,,2.06,USDX,0.0,-,Nexo,,approved / Interest,18-04-2025 00:00:00
+Other Fee,0.0,,2.06,USDX,0.0,-,Nexo,,approved / Interest,19-04-2025 00:00:00
+Other Fee,0.0,,2.06,USDX,0.0,-,Nexo,,approved / Interest,20-04-2025 00:00:00
+Other Fee,0.0,,2.06,USDX,0.0,-,Nexo,,approved / Interest,21-04-2025 00:00:00
+Other Fee,0.0,,2.06,USDX,0.0,-,Nexo,,approved / Interest,22-04-2025 00:00:00
+Other Fee,0.0,,2.06,USDX,0.0,-,Nexo,,approved / Interest,23-04-2025 00:00:00
+Other Fee,0.0,,2.06,USDX,0.0,-,Nexo,,approved / Interest,24-04-2025 00:00:00
+Other Fee,0.0,,1.72,USDX,0.0,-,Nexo,,approved / Interest,25-04-2025 00:00:00
+Trade,2.76,USDX,2.76,USDX,0.0,-,Nexo,,"approved / Borrow Interest Compensation (Apr 17–25, 2025)",25-04-2025 13:13:16
+Other Fee,0.0,,1.72,USDX,0.0,-,Nexo,,approved / Interest,26-04-2025 00:00:00
+Trade,-0.04519384,BTC,0.0,BTC,0.0,-,Nexo,,approved / Crypto Repayment,26-04-2025 19:40:27
+Trade,0.04519384,BTC,4155.08,USDX,0.0,-,Nexo,,approved / Crypto repayment / Exchange BTC to USDX,26-04-2025 19:40:28
+Trade,4155.08,USDX,0.0,USDX,10.8,USDX,Nexo,,approved / Crypto Repayment,26-04-2025 19:40:28
+Deposit,0.09812392,BTC,0.0,,0.0,-,Nexo,,approved / Transfer from Credit Line Wallet to Savings Wallet,28-04-2025 02:35:39
+Deposit,1.13422214,ETH,0.0,,0.0,-,Nexo,,approved / Transfer from Credit Line Wallet to Savings Wallet,28-04-2025 02:36:36
+Deposit,114.3264,XRP,0.0,,0.0,-,Nexo,,approved / Transfer from Credit Line Wallet to Savings Wallet,28-04-2025 02:37:17
+Deposit,0.1034,BNB,0.0,,0.0,-,Nexo,,approved / Transfer from Credit Line Wallet to Savings Wallet,28-04-2025 02:38:06
+Deposit,6.8143,DOT,0.0,,0.0,-,Nexo,,approved / Transfer from Credit Line Wallet to Savings Wallet,28-04-2025 02:38:40
+Deposit,480.8913,ADA,0.0,,0.0,-,Nexo,,approved / Transfer from Credit Line Wallet to Savings Wallet,28-04-2025 02:39:39
+Withdrawal,0.0,,0.09801889,BTC,0.00010502,BTC,Nexo,,approved / BTC withdrawal,28-04-2025 09:18:08
+Withdrawal,0.0,,1.87651385,ETH,0.0,-,Nexo,,approved / ETH withdrawal,28-04-2025 09:20:27
+Withdrawal,0.0,,480.8913,ADA,0.0,-,Nexo,,approved / ADA withdrawal,28-04-2025 09:22:57
+Withdrawal,0.0,,114.3264,XRP,0.0,-,Nexo,,approved / XRP withdrawal,28-04-2025 09:24:38
+Withdrawal,0.0,,0.1033034,BNB,9.66e-05,BNB,Nexo,,approved / BNB withdrawal,28-04-2025 09:26:14
+Withdrawal,0.0,,6.8143,DOT,0.0,-,Nexo,,approved / DOT withdrawal,28-04-2025 09:28:21
