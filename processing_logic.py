@@ -3,8 +3,8 @@
 import pandas as pd
 import numpy as np 
 from datetime import datetime
-import matplotlib.pyplot as plt
-import io
+#import matplotlib.pyplot as plt
+#import io
 
 # --- CONFIGURATIONS ---
 coinbase_pro_config = {
