@@ -144,25 +144,25 @@ koinly_config = {
     "target_columns": ['Type', 'Buy', 'Cur.', 'Sell', 'Cur..1', 'Fee', 'Cur..2', 'Exchange', 'Group', 'Comment', 'Date'],
 }
 
-awaken_tax_config = {
-    "platform_name": "Awaken Tax",
-    "consolidation_style": "multi", # Multi blockchain consolidation, with multi variables in single column
-    "identification_headers": ["Priority", "Provider", "Title", "Hash", "Sent", "Received"],
-    "column_mapping": {
-        "ID": "Trade_ID_Raw",
-        "Priority": "Priority_Raw",
-        "Provider": "Exchange_Raw",
-        "Title": "Operation_Raw",
-        "Date": "DateTime_Raw",
-        "Notes": "Comment_Raw",
-        "Hash": "Hash_Raw",
-        "Cap Gains (USD)": "Cap_Gains_Raw",
-        "Sent": "Sent_Raw",
-        "Received": "Received_Raw",
-        "Fees": "Fee_Raw",
-    },
-    "target_columns": ['Type', 'Buy', 'Cur.', 'Sell', 'Cur..1', 'Fee', 'Cur..2', 'Exchange', 'Group', 'Comment', 'Date'],
-}
+# awaken_tax_config = {
+#     "platform_name": "Awaken Tax",
+#     "consolidation_style": "multi", # Multi blockchain consolidation, with multi variables in single column
+#     "identification_headers": ["Priority", "Provider", "Title", "Hash", "Sent", "Received"],
+#     "column_mapping": {
+#         "ID": "Trade_ID_Raw",
+#         "Priority": "Priority_Raw",
+#         "Provider": "Exchange_Raw",
+#         "Title": "Operation_Raw",
+#         "Date": "DateTime_Raw",
+#         "Notes": "Comment_Raw",
+#         "Hash": "Hash_Raw",
+#         "Cap Gains (USD)": "Cap_Gains_Raw",
+#         "Sent": "Sent_Raw",
+#         "Received": "Received_Raw",
+#         "Fees": "Fee_Raw",
+#     },
+#     "target_columns": ['Type', 'Buy', 'Cur.', 'Sell', 'Cur..1', 'Fee', 'Cur..2', 'Exchange', 'Group', 'Comment', 'Date'],
+# }
 
 stake_tax_config = {
     "platform_name": "Stake Tax",
@@ -185,23 +185,23 @@ stake_tax_config = {
     "target_columns": ['Type', 'Buy', 'Cur.', 'Sell', 'Cur..1', 'Fee', 'Cur..2', 'Exchange', 'Group', 'Comment', 'Date'],
 }
 
-polygon_zkevm_config = {
-    "platform_name": "Polygon ZKevm",
-    "consolidation_style": "direct",
-    "identification_headers": ['DateTime', 'From', 'From_Nametag', 'To', 'To_Nametag', 'Amount'],
-    "column_mapping": {
-        "Transaction Hash": "Trade_ID_Raw",
-        "Parent Transaction Hash": "Parent_Transaction_ID_Raw",
-        "Status": "Status_Raw",
-        "Method": "Category_Raw",
-        "DateTime": "DateTime_Raw",
-        "From": "From_Raw",
-        "To": "To_Raw",
-        "Amount": "Amount_Cur_Raw",
-        "Txn Fee": "Fee_Raw",
-    },
-    "target_columns": ['Type', 'Buy', 'Cur.', 'Sell', 'Cur..1', 'Fee', 'Cur..2', 'Exchange', 'Group', 'Comment', 'Date'],
-}
+# polygon_zkevm_config = {
+#     "platform_name": "Polygon ZKevm",
+#     "consolidation_style": "direct",
+#     "identification_headers": ['DateTime', 'From', 'From_Nametag', 'To', 'To_Nametag', 'Amount'],
+#     "column_mapping": {
+#         "Transaction Hash": "Trade_ID_Raw",
+#         "Parent Transaction Hash": "Parent_Transaction_ID_Raw",
+#         "Status": "Status_Raw",
+#         "Method": "Category_Raw",
+#         "DateTime": "DateTime_Raw",
+#         "From": "From_Raw",
+#         "To": "To_Raw",
+#         "Amount": "Amount_Cur_Raw",
+#         "Txn Fee": "Fee_Raw",
+#     },
+#     "target_columns": ['Type', 'Buy', 'Cur.', 'Sell', 'Cur..1', 'Fee', 'Cur..2', 'Exchange', 'Group', 'Comment', 'Date'],
+# }
 
 nexo_config = {
     "platform_name": "Nexo",
