@@ -37,7 +37,6 @@ coinbase_pro_config = {
     }
 }
 
-# --- NEW: Bitcoin.tax Config (Handles pre-consolidated rows) ---
 bitcoin_tax_config = {
     "platform_name": "Bitcoin.tax",
     "consolidation_style": "direct", # Use the new direct processing function
@@ -59,7 +58,6 @@ bitcoin_tax_config = {
     "target_columns": ['Type', 'Buy', 'Cur.', 'Sell', 'Cur..1', 'Fee', 'Cur..2', 'Exchange', 'Group', 'Comment', 'Date'],
 }
 
-# --- NEW: Configuration for Binance US (Direct Style) ---
 binance_us_config = {
     "platform_name": "Binance US",
     "consolidation_style": "direct", # Use the direct processing function
@@ -86,7 +84,6 @@ binance_us_config = {
     "target_columns": ['Type', 'Buy', 'Cur.', 'Sell', 'Cur..1', 'Fee', 'Cur..2', 'Exchange', 'Group', 'Comment', 'Date'],
 }
 
-# --- NEW: Configuration for MEXC ---
 mexc_config = {
     "platform_name": "MEXC",
     "consolidation_style": "pair", # Separate pairs before using the direct processing function
@@ -144,26 +141,6 @@ koinly_config = {
     "target_columns": ['Type', 'Buy', 'Cur.', 'Sell', 'Cur..1', 'Fee', 'Cur..2', 'Exchange', 'Group', 'Comment', 'Date'],
 }
 
-# awaken_tax_config = {
-#     "platform_name": "Awaken Tax",
-#     "consolidation_style": "multi", # Multi blockchain consolidation, with multi variables in single column
-#     "identification_headers": ["Priority", "Provider", "Title", "Hash", "Sent", "Received"],
-#     "column_mapping": {
-#         "ID": "Trade_ID_Raw",
-#         "Priority": "Priority_Raw",
-#         "Provider": "Exchange_Raw",
-#         "Title": "Operation_Raw",
-#         "Date": "DateTime_Raw",
-#         "Notes": "Comment_Raw",
-#         "Hash": "Hash_Raw",
-#         "Cap Gains (USD)": "Cap_Gains_Raw",
-#         "Sent": "Sent_Raw",
-#         "Received": "Received_Raw",
-#         "Fees": "Fee_Raw",
-#     },
-#     "target_columns": ['Type', 'Buy', 'Cur.', 'Sell', 'Cur..1', 'Fee', 'Cur..2', 'Exchange', 'Group', 'Comment', 'Date'],
-# }
-
 stake_tax_config = {
     "platform_name": "Stake Tax",
     "consolidation_style": "direct",
@@ -185,24 +162,6 @@ stake_tax_config = {
     "target_columns": ['Type', 'Buy', 'Cur.', 'Sell', 'Cur..1', 'Fee', 'Cur..2', 'Exchange', 'Group', 'Comment', 'Date'],
 }
 
-# polygon_zkevm_config = {
-#     "platform_name": "Polygon ZKevm",
-#     "consolidation_style": "direct",
-#     "identification_headers": ['DateTime', 'From', 'From_Nametag', 'To', 'To_Nametag', 'Amount'],
-#     "column_mapping": {
-#         "Transaction Hash": "Trade_ID_Raw",
-#         "Parent Transaction Hash": "Parent_Transaction_ID_Raw",
-#         "Status": "Status_Raw",
-#         "Method": "Category_Raw",
-#         "DateTime": "DateTime_Raw",
-#         "From": "From_Raw",
-#         "To": "To_Raw",
-#         "Amount": "Amount_Cur_Raw",
-#         "Txn Fee": "Fee_Raw",
-#     },
-#     "target_columns": ['Type', 'Buy', 'Cur.', 'Sell', 'Cur..1', 'Fee', 'Cur..2', 'Exchange', 'Group', 'Comment', 'Date'],
-# }
-
 nexo_config = {
     "platform_name": "Nexo",
     "consolidation_style": "direct",
@@ -221,6 +180,26 @@ nexo_config = {
     },
     "target_columns": ['Type', 'Buy', 'Cur.', 'Sell', 'Cur..1', 'Fee', 'Cur..2', 'Exchange', 'Group', 'Comment', 'Date'],
 }
+
+cointracker_config = {
+    "platform_name": "CoinTracker",
+    "consolidation_style": "direct",
+    "identification_headers": ["Date", "Type", "Received Quantity", "Received Currency", "Sent Quantity", "Sent Currency", "Fee Amount", "Fee Currency", "Sent Wallet", "Received Wallet", "Transaction Hash"],
+    "column_mapping": {
+        "Date": "DateTime_Raw",
+        "Type": "Category_Raw",
+        "Received Quantity": "Buy_Amount_Raw",
+        "Received Currency": "Currency_Raw",
+        "Sent Quantity": "Sell_Amount_Raw",
+        "Sent Currency": "Pair_Currency_Raw",
+        "Fee Amount": "Fee_Raw",
+        "Fee Currency": "Fee_Currency_Raw",
+        "Sent Wallet": "Exchange_Raw",
+        "Received Wallet": "Group_Raw",
+        "Transaction Hash": "Comment_Raw"
+    },
+    "target_columns": ['Type', 'Buy', 'Cur.', 'Sell', 'Cur..1', 'Fee', 'Cur..2', 'Exchange', 'Group', 'Comment', 'Date'],
+}
 # Add any other configs you have
 
 # Create a dictionary to hold all configs for easy access in the app
@@ -232,7 +211,8 @@ CONFIGS = {
     "KuCoin": kucoin_config,
     "Koinly": koinly_config,
     "Stake Tax": stake_tax_config,
-    "Nexo": nexo_config
+    "Nexo": nexo_config,
+    "CoinTracker": cointracker_config
     # Add other mappings here
 }
 
@@ -607,7 +587,20 @@ def process_csv_direct(input_df, config):
                 new_row['Cur..1'] = pair_currency
         
         if category == 'transfer':
-            if (currency is not None and currency != '' and (row.get('Buy_Amount_Raw') is not None and row.get('Buy_Amount_Raw') != 0)):
+            # if both are present, wallet to wallet transfer, add two rows
+            if currency is not None and currency != '' and pair_currency is not None and pair_currency != '':
+                new_row['Type'] = 'Deposit'
+                add_row['Type'] = 'Withdrawal'
+                if (row.get('Buy_Amount_Raw') is not None and row.get('Buy_Amount_Raw') != 0):
+                    new_row['Buy'] = pd.to_numeric(row.get('Buy_Amount_Raw'), errors='coerce')
+                    new_row['Cur.'] = currency
+                    new_row['Exchange'] = row.get('Group_Raw', '')
+                if (row.get('Sell_Amount_Raw') is not None and row.get('Sell_Amount_Raw') != 0):
+                    add_row['Sell'] = pd.to_numeric(row.get('Sell_Amount_Raw'), errors='coerce')
+                    add_row['Cur..1'] = pair_currency
+                    add_row['Exchange'] = row.get('Exchange_Raw', platform)
+                final_rows.append(add_row)
+            elif (currency is not None and currency != '' and (row.get('Buy_Amount_Raw') is not None and row.get('Buy_Amount_Raw') != 0)):
                 new_row['Type'] = 'Deposit'
                 new_row['Buy'] = pd.to_numeric(row.get('Buy_Amount_Raw'), errors='coerce')
                 new_row['Cur.'] = currency
@@ -615,7 +608,7 @@ def process_csv_direct(input_df, config):
                 new_row['Type'] = 'Withdrawal'
                 new_row['Sell'] = pd.to_numeric(row.get('Sell_Amount_Raw'), errors='coerce')
                 new_row['Cur..1'] = pair_currency
-        elif category == 'deposit' or category == 'transfer in' or category == 'top up crypto':
+        elif category == 'deposit' or category == 'transfer in' or category == 'top up crypto' or category == 'top up' or category == 'receive':
             new_row['Type'] = 'Reward / Bonus' if operation == 'reward' else 'Deposit'
             #new_row['Type'] = 'Deposit'
             if (row.get('Primary_Asset_Raw') is not None and row.get('Primary_Amount_Raw') is not None):
@@ -626,7 +619,7 @@ def process_csv_direct(input_df, config):
                 if (currency is not None and (row.get('Buy_Amount_Raw') is not None and row.get('Buy_Amount_Raw') != 0)):
                     new_row['Buy'] = pd.to_numeric(row.get('Buy_Amount_Raw'), errors='coerce')
                     new_row['Cur.'] = currency
-        elif category == 'withdrawal' or category == 'transfer out':
+        elif category == 'withdrawal' or category == 'transfer out' or category == 'send' or category == 'crypto send':
             new_row['Type'] = 'Withdrawal'
             if (row.get('Primary_Asset_Raw') is not None and row.get('Primary_Amount_Raw') is not None):
                 new_row['Sell'] = pd.to_numeric(row.get('Primary_Amount_Raw'), errors='coerce')
@@ -665,14 +658,25 @@ def process_csv_direct(input_df, config):
             if (currency is not None and (row.get('Buy_Amount_Raw') is not None and row.get('Buy_Amount_Raw') != 0)):
                 new_row['Buy'] = pd.to_numeric(row.get('Buy_Amount_Raw'), errors='coerce')
                 new_row['Cur.'] = currency
+        elif category == 'referral bonus' or category == 'reward' or category == 'bonus':
+            new_row['Type'] = 'Reward / Bonus'
+            if (currency is not None and (row.get('Buy_Amount_Raw') is not None and row.get('Buy_Amount_Raw') != 0)):
+                new_row['Buy'] = pd.to_numeric(row.get('Buy_Amount_Raw'), errors='coerce')
+                new_row['Cur.'] = currency
         elif category == 'income':
             new_row['Type'] = 'Income'
             if (currency is not None and (row.get('Buy_Amount_Raw') is not None and row.get('Buy_Amount_Raw') != 0)):
                 new_row['Buy'] = pd.to_numeric(row.get('Buy_Amount_Raw'), errors='coerce')
                 new_row['Cur.'] = currency 
+        elif category == 'other income' or category == 'other_income':
+            new_row['Type'] = 'Other Income'
+            if (currency is not None and (row.get('Buy_Amount_Raw') is not None and row.get('Buy_Amount_Raw') != 0)):
+                new_row['Buy'] = pd.to_numeric(row.get('Buy_Amount_Raw'), errors='coerce')
+                new_row['Cur.'] = currency
         elif category == '_self_transfer' or category == '_unknown':
             new_row['Type'] = 'Other Fee'      
-        elif category == 'stake' or category == 'staking' or category == 'fixed term interest' or category == 'staking reward':
+        elif (category == 'staking' or category == 'fixed term interest' 
+            or category == 'staking reward' or category == 'staking_reward' or category == 'stake reward'):
             new_row['Type'] = 'Staking'
             if (currency is not None and (row.get('Buy_Amount_Raw') is not None and row.get('Buy_Amount_Raw') != 0)):
                 new_row['Buy'] = pd.to_numeric(row.get('Buy_Amount_Raw'), errors='coerce')
@@ -718,7 +722,7 @@ def process_csv_direct(input_df, config):
                     add_row2['Cur.'] = comment2[2].strip()
                 final_rows.append(add_row)
                 final_rows.append(add_row2)
-        elif category == '_msgdelegate' or category == 'locking term deposit':
+        elif category == '_msgdelegate' or category == 'locking term deposit' or category == 'stake':
             new_row['Type'] = 'Withdrawal'
             maincomment = 'STAKING     ' + maincomment.strip()
             add_row['Type'] = 'Deposit'
@@ -726,6 +730,7 @@ def process_csv_direct(input_df, config):
             add_row['Comment'] = maincomment
             exchange = row.get('Exchange_Raw', platform)
             staking = exchange.lower().replace('blockchain', 'staking') if 'blockchain' in exchange.lower() else 'staking'
+            staking = exchange.lower().replace('wallet', 'staking') if 'wallet' in exchange.lower() else 'staking'
             add_row['Exchange'] = staking
             if (pair_currency is not None and pair_currency != '' and (row.get('Sell_Amount_Raw') is not None and row.get('Sell_Amount_Raw') != 0)):
                 new_row['Sell'] = pd.to_numeric(row.get('Sell_Amount_Raw'), errors='coerce')
@@ -742,7 +747,7 @@ def process_csv_direct(input_df, config):
                         add_row['Buy'] = pd.to_numeric(comment2[1], errors='coerce')
                         add_row['Cur.'] = comment2[2].strip()
             final_rows.append(add_row)
-        elif 'undelegate' in category or category == 'unlocking term deposit':
+        elif 'undelegate' in category or category == 'unlocking term deposit' or category == 'unstake':
             new_row['Type'] = 'Deposit'
             maincomment = 'UNSTAKING     ' + maincomment.strip()
             add_row['Type'] = 'Withdrawal'
@@ -766,7 +771,7 @@ def process_csv_direct(input_df, config):
                         add_row['Sell'] = pd.to_numeric(comment2[1], errors='coerce')
                         add_row['Cur..1'] = comment2[2].strip()
             final_rows.append(add_row)
-        elif category == 'interest':
+        elif category == 'interest' or category == 'interest_payment' or category == 'interest payment':
             if currency.lower() == 'usd':
                 continue # Skip USD interest, as it's not crypto
 
