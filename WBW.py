@@ -612,27 +612,25 @@ def generate_cointracking_import_file(output_path, final_adjusted_df, raw_closin
     
     cointracking_df.to_csv(os.path.join(output_path, "CoinTracking Import File.csv"), index=False)
 
-def main(closing_file, balance_file, temp_dir):
+def main(closing_file_object, balance_file_object, output_path):
     logging.info("Starting main process.")
     try:
-        desktop_path = temp_dir
-        raw_closing_df, raw_balance_df, closing_df, balance_df = load_data(closing_file, balance_file)
-
+        raw_closing_df, raw_balance_df, closing_df, balance_df = load_data(closing_file_object, balance_file_object)
+        
         discrepancies_simple, global_discrepancies = calculate_discrepancies(closing_df, balance_df)
         
-        reallocation_report_path = os.path.join(temp_dir, "Reallocation Report.xlsx")
-        reallocation_details.to_excel(reallocation_report_path, index=False, sheet_name="Reallocation Details")
+        adjusted_df, reallocation_details = reallocate_excess(closing_df, discrepancies_simple, balance_df)
         
-        adjusted_df, reallocation_details = reallocate_excess(closing_df, discrepancies_simple, raw_balance_df)
-        
-        final_adjusted_df, write_off_details, manual_entries = resolve_global_adjustments(adjusted_df, global_discrepancies, raw_balance_df)
+        final_adjusted_df, write_off_details, manual_entries = resolve_global_adjustments(adjusted_df, global_discrepancies, balance_df)
         
         final_adjusted_df = add_comments(final_adjusted_df, discrepancies_simple)
+        
+        _validate_all_dates(final_adjusted_df)
         
         cost_basis_summary = generate_cost_basis_summary(closing_df, final_adjusted_df, write_off_details)
 
         save_combined_report(
-            temp_dir,
+            output_path,
             raw_balance_df,
             raw_closing_df,
             discrepancies_simple,
@@ -644,14 +642,14 @@ def main(closing_file, balance_file, temp_dir):
             manual_entries,
             closing_df
         )
+        
+        final_adjusted_df_from_report = generate_final_adjusted_closing_report(output_path, final_adjusted_df)
+        generate_tax_lot_consolidation_details(output_path, final_adjusted_df)
+        generate_cost_basis_change_analysis(output_path, adjusted_df, final_adjusted_df_from_report)
+        generate_cointracking_import_file(output_path, final_adjusted_df_from_report, raw_closing_df, raw_balance_df)
 
-        final_adjusted_df = generate_final_adjusted_closing_report(temp_dir, final_adjusted_df)
-        generate_tax_lot_consolidation_details(temp_dir, final_adjusted_df)
-        generate_cost_basis_change_analysis(temp_dir, final_adjusted_df, final_adjusted_df)
-        generate_cointracking_import_file(temp_dir, final_adjusted_df, raw_closing_df, raw_balance_df)
-
-        combined_report_path = os.path.join(temp_dir, "Combined Report.xlsx")
-        adjusted_closing_path = os.path.join(temp_dir, "Updated Closing Position Report 2024.csv")
+        combined_report_path = os.path.join(output_path, "Combined Report.xlsx")
+        adjusted_closing_path = os.path.join(output_path, "Updated Closing Position Report 2024.csv")
         
         logging.info("Script execution completed.")
         return combined_report_path, adjusted_closing_path, None
