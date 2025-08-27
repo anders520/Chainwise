@@ -212,7 +212,7 @@ CONFIGS = {
     "Koinly": koinly_config,
     "Stake Tax": stake_tax_config,
     "Nexo": nexo_config,
-    "CoinTracker": cointracker_config
+    "CoinTracker": cointracker_config,
     # Add other mappings here
 }
 
