@@ -148,9 +148,8 @@ def build_cost_basis_summary(closing_agg, ct_agg):
     logging.info("Building cost basis summary.")
     
     cb_summary = {}
-    
-    closing_cost_basis_col = 'Cost Basis in USD'
-    ct_cost_basis_col = 'Sell Amount'
+    closing_cost_basis_col = 'Cost Basis (Closing)'
+    ct_cost_basis_col = 'Cost Basis (CT)'
     
     # Total Cost Basis (Sum of all tokens)
     closing_total_cb = closing_agg[closing_cost_basis_col].sum()
