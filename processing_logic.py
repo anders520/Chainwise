@@ -586,7 +586,9 @@ def process_csv_direct(input_df, config):
                 new_row['Cur.'] = currency
                 new_row['Cur..1'] = pair_currency
         
-        if category == 'transfer':
+        if category == 'spam':
+            continue  # Skip spam entries
+        elif category == 'transfer':
             # if both are present, wallet to wallet transfer, add two rows
             if currency is not None and currency != '' and pair_currency is not None and pair_currency != '':
                 new_row['Type'] = 'Deposit'
