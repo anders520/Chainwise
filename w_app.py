@@ -26,8 +26,8 @@ def main():
     """)
 
     st.sidebar.header("Run WBW.py Analysis")
-    closing_file_wbw = st.sidebar.file_uploader("Upload 'Closing Position Report 2024.csv'", type=['csv'], key="wbw_closing")
-    balance_file_wbw = st.sidebar.file_uploader("Upload 'Balance by Exchange Report 2024.csv'", type=['csv'], key="wbw_balance")
+    closing_file_wbw = st.sidebar.file_uploader("Upload 'Closing Position Report.csv'", type=['csv'], key="wbw_closing")
+    balance_file_wbw = st.sidebar.file_uploader("Upload 'Balance by Exchange Report.csv'", type=['csv'], key="wbw_balance")
 
     if st.sidebar.button("Run WBW.py Analysis"):
         if closing_file_wbw and balance_file_wbw:
@@ -36,8 +36,8 @@ def main():
             with tempfile.TemporaryDirectory() as temp_dir:
                 try:
                     # Save uploaded files to the temporary directory
-                    closing_path = os.path.join(temp_dir, "Closing Position Report 2024.csv")
-                    balance_path = os.path.join(temp_dir, "Balance by Exchange Report 2024.csv")
+                    closing_path = os.path.join(temp_dir, "Closing Position Report.csv")
+                    balance_path = os.path.join(temp_dir, "Balance by Exchange Report.csv")
                     
                     with open(closing_path, "wb") as f:
                         f.write(closing_file_wbw.getvalue())
@@ -66,7 +66,7 @@ def main():
             st.warning("Please upload both CSV files to run WBW.py analysis.")
 
     st.sidebar.header("Run WBW2.py Comparison")
-    closing_file_wbw2 = st.sidebar.file_uploader("Upload 'Updated Closing Position Report 2024.csv'", type=['csv'], key="wbw2_closing")
+    closing_file_wbw2 = st.sidebar.file_uploader("Upload 'Updated Closing Position Report.csv'", type=['csv'], key="wbw2_closing")
     ct_file_wbw2 = st.sidebar.file_uploader("Upload 'CoinTracking Import File.csv'", type=['csv'], key="wbw2_ct")
 
     if st.sidebar.button("Run WBW2.py Comparison"):
@@ -75,7 +75,7 @@ def main():
             with tempfile.TemporaryDirectory() as temp_dir:
                 try:
                     # Save uploaded files to the temporary directory
-                    closing_path = os.path.join(temp_dir, "Updated Closing Position Report 2024.csv")
+                    closing_path = os.path.join(temp_dir, "Updated Closing Position Report.csv")
                     ct_path = os.path.join(temp_dir, "CoinTracking Import File.csv")
 
                     with open(closing_path, "wb") as f:

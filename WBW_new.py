@@ -599,7 +599,7 @@ def save_combined_report(output_path, raw_balance_df, raw_closing_df, discrepanc
 
 def generate_final_adjusted_closing_report(output_path, adjusted_df):
     logging.info("Generating Final Adjusted Closing Position.csv.")
-    adjusted_df.to_csv(os.path.join(output_path, "Updated Closing Position Report 2024.csv"), index=False)
+    adjusted_df.to_csv(os.path.join(output_path, "Updated Closing Position Report.csv"), index=False)
     return adjusted_df
 
 def generate_tax_lot_consolidation_details(output_path, adjusted_df):
@@ -733,7 +733,7 @@ def main(closing_file, balance_file, output_path):
         logging.error(traceback.format_exc())
     
     logging.info("Script execution completed.")
-    return os.path.join(output_path, "Combined Report.xlsx"), os.path.join(output_path, "Updated Closing Position Report 2024.csv")
+    return os.path.join(output_path, "Combined Report.xlsx"), os.path.join(output_path, "Updated Closing Position Report.csv")
 
 
 # New helper function to validate dates

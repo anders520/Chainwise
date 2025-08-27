@@ -37,7 +37,7 @@ def _clean_numeric(series):
 
 def load_closing_csv(closing_path):
     """
-    Load 'Updated Closing Position Report 2024.csv' as-is (for Sheet 1),
+    Load 'Updated Closing Position Report.csv' as-is (for Sheet 1),
     and build an aggregated frame per Currency + Account for comparison.
     Account is taken from 'Year End holding' per your instruction.
     """
