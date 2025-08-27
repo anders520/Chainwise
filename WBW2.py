@@ -145,60 +145,30 @@ def build_global_comparison(detailed_comp):
 
 
 def build_cost_basis_summary(closing_agg, ct_agg):
-    logging.info("Building cost basis summary.")
+    summary = []
     
-    cb_summary = {}
-    closing_cost_basis_col = 'Cost Basis (Closing)'
-    ct_cost_basis_col = 'Cost Basis (CT)'
+    total_closing_cb = closing_agg['Cost Basis (Closing)'].sum()
+    total_ct_cb = ct_agg['Cost Basis (CT)'].sum()
+    total_cb_disc = total_closing_cb - total_ct_cb
+    summary.append({'Category': 'Total Cost Basis (Closing)', 'Amount': total_closing_cb})
+    summary.append({'Category': 'Total Cost Basis (CT)', 'Amount': total_ct_cb})
+    summary.append({'Category': 'Total Discrepancy (Cost Basis)', 'Amount': total_cb_disc})
     
-    # Total Cost Basis (Sum of all tokens)
-    closing_total_cb = closing_agg[closing_cost_basis_col].sum()
-    ct_total_cb = ct_agg[ct_cost_basis_col].sum()
+    cb_by_cur = pd.merge(
+        closing_agg.groupby('Currency')['Cost Basis (Closing)'].sum().reset_index(),
+        ct_agg.groupby('Currency')['Cost Basis (CT)'].sum().reset_index(),
+        on='Currency',
+        how='outer'
+    ).fillna(0)
     
-    cb_summary['Total Cost Basis (USD)'] = {
-        'Closing': closing_total_cb,
-        'CoinTracking': ct_total_cb,
-        'Difference': closing_total_cb - ct_total_cb,
-        'Percentage Difference': (closing_total_cb - ct_total_cb) / closing_total_cb * 100 if closing_total_cb != 0 else np.nan
-    }
+    cb_by_cur['Discrepancy'] = cb_by_cur['Cost Basis (Closing)'] - cb_by_cur['Cost Basis (CT)']
     
-    # Cost Basis by Currency
-    closing_by_currency = closing_agg.groupby('Currency')[closing_cost_basis_col].sum().to_dict()
-    ct_by_currency = ct_agg.groupby('Buy Cur.')[ct_cost_basis_col].sum().to_dict()
+    cb_by_cur = cb_by_cur.sort_values(by=['Currency']).reset_index(drop=True)
     
-    all_currencies = sorted(list(set(closing_by_currency.keys()) | set(ct_by_currency.keys())))
+    summary_df = pd.DataFrame(summary)
+    #summary_df = pd.concat([summary_df, pd.DataFrame(columns=['Category', 'Amount'])], ignore_index=True)
+    summary_df = pd.concat([summary_df, cb_by_cur.rename(columns={'Cost Basis (Closing)': 'Closing Cost Basis (USD)', 'Cost Basis (CT)': 'CT Cost Basis (USD)', 'Discrepancy': 'Discrepancy (Cost Basis)'})], ignore_index=True)
     
-    for currency in all_currencies:
-        closing_cb = closing_by_currency.get(currency, 0)
-        ct_cb = ct_by_currency.get(currency, 0)
-        
-        difference = closing_cb - ct_cb
-        percentage_difference = difference / closing_cb * 100 if closing_cb != 0 else np.nan
-        
-        cb_summary[f'{currency} Cost Basis (USD)'] = {
-            'Closing': closing_cb,
-            'CoinTracking': ct_cb,
-            'Difference': difference,
-            'Percentage Difference': percentage_difference
-        }
-        
-    summary_list = []
-    for category, values in cb_summary.items():
-        summary_list.append({
-            'Category': category,
-            'WBW Closing Position': values['Closing'],
-            'CoinTracking Import': values['CoinTracking'],
-            'Difference': values['Difference'],
-            'Percentage Difference': f"{values['Percentage Difference']:.2f}%" if not np.isnan(values['Percentage Difference']) else ''
-        })
-    
-    summary_df = pd.DataFrame(summary_list)
-    
-    # Handle the empty case more explicitly to avoid FutureWarning
-    if summary_df.empty:
-        logging.warning("No data for cost basis summary. Creating an empty DataFrame with headers.")
-        summary_df = pd.DataFrame(columns=['Category', 'WBW Closing Position', 'CoinTracking Import', 'Difference', 'Percentage Difference'])
-
     return summary_df
 
 
