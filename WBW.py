@@ -12,7 +12,6 @@ logging.basicConfig(
     level=logging.DEBUG,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler('script_log.txt'),
         logging.StreamHandler(sys.stdout)
     ]
 )
@@ -640,20 +639,17 @@ def main(closing_file_object, balance_file_object, output_path):
             manual_entries,
             closing_df
         )
+        final_adjusted_df = generate_final_adjusted_closing_report(output_path, adjusted_df)
+        generate_tax_lot_consolidation_details(output_path, adjusted_df)
+        generate_cost_basis_change_analysis(output_path, adjusted_df, final_adjusted_df)
+        generate_cointracking_import_file(output_path, final_adjusted_df, raw_closing_df, raw_balance_df)
     except Exception as e:
+        error_traceback = traceback.format_exc()
         logging.error(f"Main process failed: {str(e)}")
-        logging.error(traceback.format_exc())
-        return None, None
-    try:
-        final_adjusted_df = generate_final_adjusted_closing_report(output_path, adjusted_df if 'adjusted_df' in locals() else pd.DataFrame())
-        generate_tax_lot_consolidation_details(output_path, adjusted_df if 'adjusted_df' in locals() else pd.DataFrame())
-        generate_cost_basis_change_analysis(output_path, adjusted_df if 'adjusted_df' in locals() else pd.DataFrame(), final_adjusted_df if 'final_adjusted_df' in locals() else pd.DataFrame())
-        generate_cointracking_import_file(output_path, final_adjusted_df if 'final_adjusted_df' in locals() else pd.DataFrame(), raw_closing_df, raw_balance_df)
-    except Exception as e:
-        logging.error(f"Error generating individual reports: {str(e)}")
-        logging.error(traceback.format_exc())
+        logging.error(error_traceback)
+        return None, None, error_traceback
     logging.info("Script execution completed.")
-    return os.path.join(output_path, "Combined Report.xlsx"), os.path.join(output_path, "Updated Closing Position Report.csv")
+    return os.path.join(output_path, "Combined Report.xlsx"), os.path.join(output_path, "Updated Closing Position Report.csv"), None
 
 
 def _validate_all_dates(df):

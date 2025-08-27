@@ -10,7 +10,6 @@ logging.basicConfig(
     level=logging.DEBUG,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler('ct_vs_closing_log.txt'),
         logging.StreamHandler(sys.stdout)
     ]
 )
@@ -195,8 +194,9 @@ def main(closing_file_object, ct_file_object, output_path):
             cb_summary.to_excel(writer, sheet_name="Cost Basis Summary", index=False)
         logging.info(f"Comparison workbook saved to {out_xlsx}")
     except Exception as e:
+        error_traceback = traceback.format_exc()
         logging.error(f"Main process failed: {str(e)}")
-        logging.error(traceback.format_exc())
-        return None
+        logging.error(error_traceback)
+        return None, error_traceback
 
-    return out_xlsx
+    return out_xlsx, None
