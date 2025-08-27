@@ -612,44 +612,55 @@ def generate_cointracking_import_file(output_path, final_adjusted_df, raw_closin
     
     cointracking_df.to_csv(os.path.join(output_path, "CoinTracking Import File.csv"), index=False)
 
-def main(closing_file_object, balance_file_object, output_path):
+def main(closing_file, balance_file, temp_dir):
     logging.info("Starting main process.")
     try:
-        raw_closing_df, raw_balance_df, closing_df, balance_df = load_data(closing_file_object, balance_file_object)
+        desktop_path = temp_dir
+        raw_closing_df, raw_balance_df, closing_df, balance_df = load_data(closing_file, balance_file)
+
         discrepancies_simple, global_discrepancies = calculate_discrepancies(closing_df, balance_df)
-        adjusted_df, reallocation_details = reallocate_excess(closing_df, discrepancies_simple, balance_df)
-        adjusted_df, write_off_details, manual_entries = resolve_global_adjustments(adjusted_df, global_discrepancies, balance_df)
-        adjusted_df = add_comments(adjusted_df, discrepancies_simple)
-        _validate_all_dates(adjusted_df)
-        cost_basis_summary = generate_cost_basis_summary(closing_df, adjusted_df, write_off_details)
-        final_discrepancies = calculate_discrepancies(adjusted_df, balance_df)[0]
-        if (final_discrepancies['Discrepancy'].abs() > 1e-8).any():
-            logging.warning("Remaining discrepancies detected:")
-            logging.warning(final_discrepancies[final_discrepancies['Discrepancy'].abs() > 1e-8])
+        
+        reallocation_report_path = os.path.join(temp_dir, "Reallocation Report.xlsx")
+        reallocation_details.to_excel(reallocation_report_path, index=False, sheet_name="Reallocation Details")
+        
+        adjusted_df, reallocation_details = reallocate_excess(closing_df, discrepancies_simple, raw_balance_df)
+        
+        final_adjusted_df, write_off_details, manual_entries = resolve_global_adjustments(adjusted_df, global_discrepancies, raw_balance_df)
+        
+        final_adjusted_df = add_comments(final_adjusted_df, discrepancies_simple)
+        
+        cost_basis_summary = generate_cost_basis_summary(closing_df, final_adjusted_df, write_off_details)
+
         save_combined_report(
-            output_path,
+            temp_dir,
             raw_balance_df,
             raw_closing_df,
             discrepancies_simple,
             global_discrepancies,
-            adjusted_df,
+            final_adjusted_df,
             cost_basis_summary,
             write_off_details,
             reallocation_details,
             manual_entries,
             closing_df
         )
-        final_adjusted_df = generate_final_adjusted_closing_report(output_path, adjusted_df)
-        generate_tax_lot_consolidation_details(output_path, adjusted_df)
-        generate_cost_basis_change_analysis(output_path, adjusted_df, final_adjusted_df)
-        generate_cointracking_import_file(output_path, final_adjusted_df, raw_closing_df, raw_balance_df)
+
+        final_adjusted_df = generate_final_adjusted_closing_report(temp_dir, final_adjusted_df)
+        generate_tax_lot_consolidation_details(temp_dir, final_adjusted_df)
+        generate_cost_basis_change_analysis(temp_dir, final_adjusted_df, final_adjusted_df)
+        generate_cointracking_import_file(temp_dir, final_adjusted_df, raw_closing_df, raw_balance_df)
+
+        combined_report_path = os.path.join(temp_dir, "Combined Report.xlsx")
+        adjusted_closing_path = os.path.join(temp_dir, "Updated Closing Position Report 2024.csv")
+        
+        logging.info("Script execution completed.")
+        return combined_report_path, adjusted_closing_path, None
+
     except Exception as e:
         error_traceback = traceback.format_exc()
         logging.error(f"Main process failed: {str(e)}")
         logging.error(error_traceback)
         return None, None, error_traceback
-    logging.info("Script execution completed.")
-    return os.path.join(output_path, "Combined Report.xlsx"), os.path.join(output_path, "Updated Closing Position Report.csv"), None
 
 
 def _validate_all_dates(df):
